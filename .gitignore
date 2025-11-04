@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+*.egg-info/
+dist/
+build/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+
+# Large files
+books/*.pdf
+Books/*.pdf
+
+# Output files (optional - you might want to commit some examples)
+# Output/
+# Input/
+
+# Credentials
+.env
+*.key
+*.json
+credentials.json
+application_default_credentials.json
+
+# OCR temporary files
+*_raw.txt
+*_temp.txt
+
+# Logs
+*.log
