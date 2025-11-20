@@ -2,18 +2,21 @@
   entries:
   - head: अध्याय
     verify: false
+    comment: ''
     gender: m
     syns:
     - prati: अध्याय
       gender: m
   - head: देव
     verify: false
+    comment: ''
     gender: m
     syns:
     - prati: देव
       gender: m
   - head: आदि
     verify: false
+    comment: ''
     gender: m
     syns:
     - prati: आदि
@@ -22,6 +25,7 @@
   entries:
   - head: स्वर्ग
     verify: false
+    comment: ''
     gender: m
     syns:
     - prati: स्वर्ग
@@ -46,6 +50,7 @@
   entries:
   - head: अमर
     verify: false
+    comment: ''
     gender: m
     syns:
     - prati: देव
@@ -56,6 +61,7 @@
       gender: m
   - head: त्रिदिव
     verify: false
+    comment: ''
     gender: m
     syns:
     - prati: स्वर
@@ -64,6 +70,7 @@
       gender: m
   - head: लोक
     verify: false
+    comment: ''
     gender: m
     syns:
     - prati: भवन
@@ -72,6 +79,7 @@
       gender: m
   - head: मर्त्य
     verify: false
+    comment: ''
     gender: m
     syns:
     - prati: वायुन
@@ -80,30 +88,35 @@
   entries:
   - head: आदित्य
     verify: false
+    comment: ''
     gender: m
     syns:
     - prati: आदित्य
       gender: m
   - head: ऋभु
     verify: false
+    comment: ''
     gender: m
     syns:
     - prati: ऋभु
       gender: m
   - head: अश्विन्
     verify: false
+    comment: ''
     gender: m
     syns:
     - prati: अश्विन्
       gender: m
   - head: वैस्वत
     verify: false
+    comment: ''
     gender: m
     syns:
     - prati: वैस्वत
       gender: m
   - head: देव
     verify: false
+    comment: ''
     gender: m
     syns:
     - prati: आदिदेव
@@ -112,12 +125,14 @@
       gender: m
   - head: लोक
     verify: false
+    comment: ''
     gender: m
     syns:
     - prati: लोक
       gender: m
   - head: अदिति
     verify: false
+    comment: ''
     gender: f
     syns:
     - prati: अदितिनन्दन
@@ -126,36 +141,42 @@
   entries:
   - head: सुपर्ण
     verify: false
+    comment: ''
     gender: m
     syns:
     - prati: सुपर्ण
       gender: m
   - head: भुज
     verify: false
+    comment: ''
     gender: m
     syns:
     - prati: कतुर्भुज
       gender: m
   - head: ईश
     verify: false
+    comment: ''
     gender: m
     syns:
     - prati: निजेश
       gender: m
   - head: अमृत
     verify: false
+    comment: ''
     gender: n
     syns:
     - prati: अमृताशन
       gender: m
   - head: बर्हिस्
     verify: false
+    comment: ''
     gender: n
     syns:
     - prati: बर्हिःसुख
       gender: n
   - head: हव्य
     verify: false
+    comment: ''
     gender: n
     syns:
     - prati: हव्ययोनि
@@ -164,6 +185,7 @@
   entries:
   - head: देवता
     verify: false
+    comment: ''
     gender: f
     syns:
     - prati: देवता
@@ -172,6 +194,7 @@
       gender: f
   - head: देव
     verify: false
+    comment: ''
     gender: m
     syns:
     - prati: ब्रह्म
@@ -182,6 +205,7 @@
       gender: m
   - head: अमर्त्य
     verify: false
+    comment: ''
     gender: m
     syns:
     - prati: अमर्त्य
@@ -190,6 +214,7 @@
   entries:
   - head: देव
     verify: false
+    comment: ''
     gender: m
     syns:
     - prati: आजानज
@@ -198,12 +223,14 @@
       gender: m
   - head: कामदेव
     verify: false
+    comment: ''
     gender: m
     syns:
     - prati: कामदेव
       gender: m
   - head: ब्रह्मा
     verify: false
+    comment: ''
     gender: m
     syns:
     - prati: ब्रह्मा
@@ -222,6 +249,7 @@
   entries:
   - head: ब्रह्मा
     verify: false
+    comment: ''
     gender: m
     syns:
     - prati: हिरण्यगर्भ
@@ -240,6 +268,7 @@
   entries:
   - head: पुरुष
     verify: false
+    comment: ''
     gender: m
     syns:
     - prati: शतानन्द
@@ -262,6 +291,7 @@
   entries:
   - head: भारती
     verify: false
+    comment: ''
     gender: f
     syns:
     - prati: गौर्
@@ -278,6 +308,7 @@
       gender: f
   - head: विधि
     verify: false
+    comment: ''
     gender: m
     syns:
     - prati: वेधा
@@ -290,6 +321,7 @@
       gender: m
   - head: प्राण
     verify: false
+    comment: ''
     gender: m
     syns:
     - prati: प्राणद
@@ -300,6 +332,7 @@
   entries:
   - head: विष्णु
     verify: false
+    comment: ''
     gender: m
     syns:
     - prati: जनार्दन
@@ -316,6 +349,7 @@
   entries:
   - head: हृषीकेश
     verify: false
+    comment: ''
     gender: m
     syns:
     - prati: पीताम्बर
@@ -330,6 +364,7 @@
   entries:
   - head: हरि
     verify: false
+    comment: ''
     gender: m
     syns:
     - prati: श्रीवत्स
@@ -348,6 +383,7 @@
   entries:
   - head: वासुदेव
     verify: false
+    comment: ''
     gender: m
     syns:
     - prati: वासुदेव
@@ -362,6 +398,7 @@
       gender: m
   - head: चक्रिन्
     verify: false
+    comment: ''
     gender: m
     syns:
     - prati: चक्रिन्
@@ -376,48 +413,56 @@
   entries:
   - head: जय
     verify: false
+    comment: ''
     gender: m
     syns:
     - prati: सुञ्जय
       gender: m
   - head: केश
     verify: false
+    comment: ''
     gender: m
     syns:
     - prati: केशी
       gender: m
   - head: सुर
     verify: false
+    comment: ''
     gender: m
     syns:
     - prati: सुरारि
       gender: m
   - head: गद
     verify: false
+    comment: ''
     gender: m
     syns:
     - prati: गदा
       gender: f
   - head: अक्ष
     verify: false
+    comment: ''
     gender: m
     syns:
     - prati: अक्षज
       gender: m
   - head: शय
     verify: false
+    comment: ''
     gender: m
     syns:
     - prati: अनन्तशायी
       gender: m
   - head: वृन्द
     verify: false
+    comment: ''
     gender: n
     syns:
     - prati: वृन्दाक
       gender: n
   - head: धर
     verify: false
+    comment: ''
     gender: m
     syns:
     - prati: धरणीधर
@@ -428,6 +473,7 @@
   entries:
   - head: विष्णु
     verify: false
+    comment: ''
     gender: m
     syns:
     - prati: शतानन्द
@@ -450,6 +496,7 @@
   entries:
   - head: कृष्ण
     verify: false
+    comment: ''
     gender: m
     syns:
     - prati: पद्मनाभ
@@ -472,6 +519,7 @@
   entries:
   - head: शक्ति
     verify: false
+    comment: ''
     gender: f
     syns:
     - prati: जीवनी
@@ -489,6 +537,7 @@
     qual: विष्णु related
   - head: आचार
     verify: false
+    comment: ''
     gender: m
     syns:
     - prati: वैष्णवी
@@ -500,6 +549,7 @@
   entries:
   - head: मणि
     verify: false
+    comment: ''
     gender: m
     syns:
     - prati: कौस्तुभ
@@ -508,6 +558,7 @@
       gender: m
   - head: दमन
     verify: false
+    comment: ''
     gender: m
     syns:
     - prati: दमः
@@ -516,12 +567,14 @@
       gender: m
   - head: चिह्न
     verify: false
+    comment: ''
     gender: m
     syns:
     - prati: श्रीवत्स
       gender: m
   - head: असि
     verify: false
+    comment: ''
     gender: m
     syns:
     - prati: नन्दक
@@ -530,6 +583,7 @@
       gender: m
   - head: चाप
     verify: false
+    comment: ''
     gender: m
     syns:
     - prati: शाङ्ग
@@ -538,12 +592,14 @@
       gender: m
   - head: शङ्ख
     verify: false
+    comment: ''
     gender: m
     syns:
     - prati: पाञ्चजन्य
       gender: m
   - head: चक्र
     verify: false
+    comment: ''
     gender: n
     syns:
     - prati: सुदर्शन
@@ -554,12 +610,14 @@
   entries:
   - head: गदा
     verify: false
+    comment: ''
     gender: f
     syns:
     - prati: कौमोदकी
       gender: f
   - head: अवतार
     verify: false
+    comment: ''
     gender: m
     syns:
     - prati: मत्स्य
@@ -569,6 +627,7 @@
     qual: दित्य/दैत्य reference
   - head: दैत्य
     verify: false
+    comment: ''
     gender: m
     syns:
     - prati: दित्य
@@ -579,6 +638,7 @@
   entries:
   - head: उपेन्द्र
     verify: false
+    comment: ''
     gender: m
     syns:
     - prati: उपेन्द्र
@@ -589,12 +649,14 @@
       gender: m
   - head: बलि
     verify: false
+    comment: ''
     gender: m
     syns:
     - prati: बलिकण्टक
       gender: m
   - head: विक्रम
     verify: false
+    comment: ''
     gender: m
     syns:
     - prati: विक्रम
@@ -609,6 +671,7 @@
   entries:
   - head: राम
     verify: false
+    comment: ''
     gender: m
     syns:
     - prati: विष्णु
@@ -627,6 +690,7 @@
   entries:
   - head: अरि
     verify: false
+    comment: ''
     gender: m
     syns:
     - prati: दूषण
@@ -637,18 +701,21 @@
       gender: m
   - head: राक्षस
     verify: false
+    comment: ''
     gender: m
     syns:
     - prati: राक्षसघ्न
       gender: m
   - head: सुख
     verify: false
+    comment: ''
     gender: m
     syns:
     - prati: सुखकर
       gender: m
   - head: आनन्द
     verify: false
+    comment: ''
     gender: m
     syns:
     - prati: कौशल्यानन्दवर्धन
@@ -657,6 +724,7 @@
   entries:
   - head: राम
     verify: false
+    comment: ''
     gender: m
     syns:
     - prati: पार्थिवेन्द्र
@@ -673,6 +741,7 @@
       gender: m
   - head: धनुस्
     verify: false
+    comment: ''
     gender: n
     syns:
     - prati: दलायुध
@@ -681,6 +750,7 @@
   entries:
   - head: बलभद्र
     verify: false
+    comment: ''
     gender: m
     syns:
     - prati: बलभद्र
@@ -696,6 +766,7 @@
     qual: Names/epithets of Balarama
   - head: रेवती
     verify: false
+    comment: ''
     gender: f
     syns:
     - prati: रेवतीकान्त
@@ -703,6 +774,7 @@
     qual: Related to Balarama's wife/connection
   - head: सात्त्वत
     verify: false
+    comment: ''
     gender: m
     syns:
     - prati: सात्त्वत
@@ -714,6 +786,7 @@
   entries:
   - head: भद्र
     verify: false
+    comment: ''
     gender: m
     syns:
     - prati: भद्राङ्ग
@@ -722,24 +795,28 @@
       gender: m
   - head: काम
     verify: false
+    comment: ''
     gender: m
     syns:
     - prati: कामपाल
       gender: m
   - head: रूप
     verify: false
+    comment: ''
     gender: m
     syns:
     - prati: सितासित
       gender: m
   - head: बल
     verify: false
+    comment: ''
     gender: m
     syns:
     - prati: बल
       gender: m
   - head: वस्त्र
     verify: false
+    comment: ''
     gender: m
     syns:
     - prati: नीलाम्बर
@@ -748,6 +825,7 @@
   entries:
   - head: कृष्ण
     verify: false
+    comment: ''
     gender: m
     syns:
     - prati: दामोदर
@@ -756,6 +834,7 @@
       gender: m
   - head: नरक
     verify: false
+    comment: ''
     gender: m
     syns:
     - prati: दाशार्ज
@@ -764,12 +843,14 @@
       gender: m
   - head: वेणु
     verify: false
+    comment: ''
     gender: m
     syns:
     - prati: वेणुमाली
       gender: m
   - head: गद
     verify: false
+    comment: ''
     gender: m
     syns:
     - prati: गदाग्रज
@@ -778,24 +859,28 @@
   entries:
   - head: कंसरिपु
     verify: false
+    comment: ''
     gender: m
     syns:
     - prati: शौरि
       gender: m
   - head: सारथि
     verify: false
+    comment: ''
     gender: m
     syns:
     - prati: दासक
       gender: m
   - head: जनक
     verify: false
+    comment: ''
     gender: m
     syns:
     - prati: वसुदेव
       gender: m
   - head: दुन्दुभि
     verify: false
+    comment: ''
     gender: m
     syns:
     - prati: नाकटुन्दुभि
@@ -804,6 +889,7 @@
   entries:
   - head: मन्मथ
     verify: false
+    comment: ''
     gender: m
     syns:
     - prati: रयुम्न
@@ -830,6 +916,7 @@
   entries:
   - head: रति
     verify: false
+    comment: ''
     gender: f
     syns:
     - prati: पुष्पधन्वन्
@@ -842,6 +929,7 @@
       gender: m
   - head: सख्य
     verify: false
+    comment: ''
     gender: n
     syns:
     - prati: शुभैकार
@@ -850,6 +938,7 @@
       gender: m
   - head: आयुध
     verify: false
+    comment: ''
     gender: n
     syns:
     - prati: पक्षेपर्विषम
@@ -858,6 +947,7 @@
   entries:
   - head: बन्धु
     verify: false
+    comment: ''
     gender: m
     syns:
     - prati: बन्धु
@@ -866,6 +956,7 @@
       gender: m
   - head: सारथि
     verify: false
+    comment: ''
     gender: m
     syns:
     - prati: सारथि
@@ -874,12 +965,14 @@
       gender: m
   - head: ब्रह्म
     verify: false
+    comment: ''
     gender: n
     syns:
     - prati: ब्रह्मसूर
       gender: n
   - head: केतु
     verify: false
+    comment: ''
     gender: m
     syns:
     - prati: केतु
@@ -888,6 +981,7 @@
       gender: m
   - head: उषापति
     verify: false
+    comment: ''
     gender: m
     syns:
     - prati: उषापति
@@ -898,12 +992,14 @@
   entries:
   - head: अवतार
     verify: false
+    comment: ''
     gender: m
     syns:
     - prati: अवतार
       gender: m
   - head: हय
     verify: false
+    comment: ''
     gender: m
     syns:
     - prati: अश्व
@@ -912,6 +1008,7 @@
       gender: m
   - head: शिरस्
     verify: false
+    comment: ''
     gender: n
     syns:
     - prati: शिरस्
@@ -920,12 +1017,14 @@
       gender: n
   - head: शेष
     verify: false
+    comment: ''
     gender: m
     syns:
     - prati: शेष
       gender: m
   - head: मुनि
     verify: false
+    comment: ''
     gender: m
     syns:
     - prati: कपिल
@@ -936,6 +1035,7 @@
   entries:
   - head: अवतार
     verify: false
+    comment: ''
     gender: m
     syns:
     - prati: दत्तात्रेय
@@ -946,6 +1046,7 @@
       gender: m
   - head: विष्णु
     verify: false
+    comment: ''
     gender: m
     syns:
     - prati: महाविष्णु
@@ -958,6 +1059,7 @@
   entries:
   - head: व्यास
     verify: false
+    comment: ''
     gender: m
     syns:
     - prati: पाराशर्य
@@ -968,6 +1070,7 @@
       gender: m
   - head: बुद्ध
     verify: false
+    comment: ''
     gender: m
     syns:
     - prati: श्रीधर
@@ -982,6 +1085,7 @@
   entries:
   - head: ज्ञ
     verify: false
+    comment: ''
     gender: m
     syns:
     - prati: सर्वज्ञ
@@ -990,6 +1094,7 @@
       gender: m
   - head: जिन्
     verify: false
+    comment: ''
     gender: m
     syns:
     - prati: लोकजिन्
@@ -998,12 +1103,14 @@
       gender: m
   - head: नृप
     verify: false
+    comment: ''
     gender: m
     syns:
     - prati: नृप
       gender: m
   - head: बुद्ध
     verify: false
+    comment: ''
     gender: m
     syns:
     - prati: तथागत
@@ -1015,6 +1122,7 @@
   entries:
   - head: मुनि
     verify: false
+    comment: ''
     gender: m
     syns:
     - prati: मुनीन्द्र
@@ -1027,12 +1135,14 @@
       gender: m
   - head: सुगत
     verify: false
+    comment: ''
     gender: m
     syns:
     - prati: सुगत
       gender: m
   - head: पुत्र
     verify: false
+    comment: ''
     gender: m
     syns:
     - prati: शुद्धोदन
@@ -1041,6 +1151,7 @@
   entries:
   - head: बन्धु
     verify: false
+    comment: ''
     gender: m
     syns:
     - prati: आत्मज
@@ -1049,6 +1160,7 @@
       gender: m
   - head: जिन
     verify: false
+    comment: ''
     gender: m
     syns:
     - prati: जिन
@@ -1059,12 +1171,14 @@
       gender: m
   - head: अलय
     verify: false
+    comment: ''
     gender: m
     syns:
     - prati: अखिलालय
       gender: m
   - head: अष्टाङ्ग
     verify: false
+    comment: ''
     gender: n
     syns:
     - prati: अष्टाङ्ग
@@ -1073,6 +1187,7 @@
   entries:
   - head: लक्ष्मी
     verify: false
+    comment: ''
     gender: f
     syns:
     - prati: लक्ष्मी
@@ -1087,12 +1202,14 @@
       gender: f
   - head: शक्ति
     verify: false
+    comment: ''
     gender: f
     syns:
     - prati: शक्ति
       gender: f
   - head: भगवती
     verify: false
+    comment: ''
     gender: f
     syns:
     - prati: भागवी
@@ -1101,6 +1218,7 @@
   entries:
   - head: गरुड
     verify: false
+    comment: ''
     gender: m
     syns:
     - prati: गरुड
@@ -1112,6 +1230,7 @@
     qual: काश्यपेः सुतः
   - head: अग
     verify: false
+    comment: ''
     gender: m
     syns:
     - prati: अग
@@ -1123,6 +1242,7 @@
   entries:
   - head: विष्णु
     verify: false
+    comment: ''
     gender: m
     syns:
     - prati: पन्नगारि
@@ -1139,6 +1259,7 @@
       gender: m
   - head: सुपर्ण
     verify: false
+    comment: ''
     gender: m
     syns:
     - prati: सुपर्ण
@@ -1149,6 +1270,7 @@
   entries:
   - head: शिव
     verify: false
+    comment: ''
     gender: m
     syns:
     - prati: शङ्कर
@@ -1163,6 +1285,7 @@
       gender: m
   - head: चन्द्र
     verify: false
+    comment: ''
     gender: m
     syns:
     - prati: शशिन्
@@ -1177,6 +1300,7 @@
   entries:
   - head: शिव
     verify: false
+    comment: ''
     gender: m
     syns:
     - prati: कपर्दी
@@ -1189,6 +1313,7 @@
       gender: m
   - head: ईश
     verify: false
+    comment: ''
     gender: m
     syns:
     - prati: ईश्वर
@@ -1197,6 +1322,7 @@
       gender: m
   - head: भग
     verify: false
+    comment: ''
     gender: m
     syns:
     - prati: मृत्युञ्जय
@@ -1207,6 +1333,7 @@
   entries:
   - head: शिव
     verify: false
+    comment: ''
     gender: m
     syns:
     - prati: महादेव
@@ -1227,6 +1354,7 @@
   entries:
   - head: शिव
     verify: false
+    comment: ''
     gender: m
     syns:
     - prati: कृत्तिवास
@@ -1249,30 +1377,35 @@
   entries:
   - head: ईश
     verify: false
+    comment: ''
     gender: m
     syns:
     - prati: भूतेश
       gender: m
   - head: सूदन
     verify: false
+    comment: ''
     gender: m
     syns:
     - prati: अन्धकसूदन
       gender: m
   - head: स्थाणु
     verify: false
+    comment: ''
     gender: m
     syns:
     - prati: स्थाणु
       gender: m
   - head: अरि
     verify: false
+    comment: ''
     gender: m
     syns:
     - prati: क्षिपुरारि
       gender: m
   - head: भीम
     verify: false
+    comment: ''
     gender: m
     syns:
     - prati: भीम
@@ -1281,6 +1414,7 @@
   entries:
   - head: नट
     verify: false
+    comment: ''
     gender: m
     syns:
     - prati: महानट
@@ -1293,24 +1427,28 @@
       gender: m
   - head: ज्ञ
     verify: false
+    comment: ''
     gender: m
     syns:
     - prati: सर्वज्ञ
       gender: m
   - head: वर्धन
     verify: false
+    comment: ''
     gender: m
     syns:
     - prati: नन्दिवर्धन
       gender: m
   - head: कान्त
     verify: false
+    comment: ''
     gender: m
     syns:
     - prati: भिण्डीकान्त
       gender: m
   - head: हाण
     verify: false
+    comment: ''
     gender: m
     syns:
     - prati: रेरिहाण
@@ -1319,6 +1457,7 @@
   entries:
   - head: महान्
     verify: false
+    comment: ''
     gender: m
     syns:
     - prati: स्थाल
@@ -1343,6 +1482,7 @@
   entries:
   - head: उग्र
     verify: false
+    comment: ''
     gender: m
     syns:
     - prati: खट्वाङ्गी
@@ -1371,12 +1511,14 @@
   entries:
   - head: बहुरूप
     verify: false
+    comment: ''
     gender: m
     syns:
     - prati: बहुरूप
       gender: m
   - head: इन्द्र
     verify: false
+    comment: ''
     gender: m
     syns:
     - prati: दशबाहु
@@ -1385,6 +1527,7 @@
       gender: m
   - head: ज्ञान
     verify: false
+    comment: ''
     gender: n
     syns:
     - prati: ज्ञान
@@ -1405,30 +1548,35 @@
   entries:
   - head: रूप
     verify: false
+    comment: ''
     gender: n
     syns:
     - prati: रूत्व
       gender: n
   - head: सम्बन्ध
     verify: false
+    comment: ''
     gender: m
     syns:
     - prati: सम्बन्ध
       gender: m
   - head: अधिष्ठान
     verify: false
+    comment: ''
     gender: n
     syns:
     - prati: अधिष्ठात्व
       gender: n
   - head: अव्यय
     verify: false
+    comment: ''
     gender: n
     syns:
     - prati: अव्यय
       gender: n
   - head: अज्ञय
     verify: false
+    comment: ''
     gender: n
     syns:
     - prati: अक्षय
@@ -1437,6 +1585,7 @@
   entries:
   - head: शक्ति
     verify: false
+    comment: ''
     gender: f
     syns:
     - prati: बाला
@@ -1453,6 +1602,7 @@
       gender: f
   - head: शक्ति
     verify: false
+    comment: ''
     gender: f
     qual: destructive/intense
     syns:
@@ -1462,6 +1612,7 @@
       gender: f
   - head: शरीर
     verify: false
+    comment: ''
     gender: n
     syns:
     - prati: कलेवर
@@ -1470,46 +1621,55 @@
   entries:
   - head: जटाजूट
     verify: false
+    comment: ''
     gender: m
     syns:
     - prati: कपर्द
       gender: m
   - head: खट्वाङ्ग
     verify: false
+    comment: ''
     gender: m
     syns: []
   - head: जगत्
     verify: false
+    comment: ''
     gender: n
     syns: []
   - head: वर
     verify: false
+    comment: ''
     gender: m
     syns: []
   - head: घृण
     verify: false
+    comment: ''
     gender: m
     syns: []
   - head: पिनाक
     verify: false
+    comment: ''
     gender: m
     syns: []
 स्युः सिन्धी स्यान्नन्दिकेश्वरः। ग गणपतिप्रियः॥:
   entries:
   - head: सिन्धु
     verify: false
+    comment: ''
     gender: m
     syns:
     - prati: सिन्धी
       gender: m
   - head: नन्दिकेश्वर
     verify: false
+    comment: ''
     gender: m
     syns:
     - prati: नन्दिकेश्वरः
       gender: m
   - head: गणपति
     verify: false
+    comment: ''
     gender: m
     syns:
     - prati: गणपतिप्रियः
@@ -1518,6 +1678,7 @@
   entries:
   - head: भृगु
     verify: false
+    comment: ''
     gender: m
     syns:
     - prati: भृगु
@@ -1526,12 +1687,14 @@
       gender: m
   - head: पुनर्भद्र
     verify: false
+    comment: ''
     gender: m
     syns:
     - prati: पुनर्भद्र
       gender: m
   - head: चिरिटि
     verify: false
+    comment: ''
     gender: m
     syns:
     - prati: चिरिटि
@@ -1540,6 +1703,7 @@
       gender: m
   - head: बृषाण
     verify: false
+    comment: ''
     gender: m
     syns:
     - prati: बृषाण
@@ -1550,6 +1714,7 @@
       gender: m
   - head: भेलुक
     verify: false
+    comment: ''
     gender: m
     syns:
     - prati: भेलुक
@@ -1560,12 +1725,14 @@
   entries:
   - head: देव
     verify: false
+    comment: ''
     gender: m
     syns:
     - prati: देवेश
       gender: m
   - head: शिव
     verify: false
+    comment: ''
     gender: m
     syns:
     - prati: विनायक
@@ -1574,6 +1741,7 @@
       gender: m
   - head: गण
     verify: false
+    comment: ''
     gender: m
     syns:
     - prati: लम्बोदर
@@ -1590,6 +1758,7 @@
   entries:
   - head: स्कन्द
     verify: false
+    comment: ''
     gender: m
     syns:
     - prati: कुमार
@@ -1604,6 +1773,7 @@
       gender: m
   - head: गणाधिप
     verify: false
+    comment: ''
     gender: m
     syns:
     - prati: गणाधिप
@@ -1616,6 +1786,7 @@
   entries:
   - head: सेनानी
     verify: false
+    comment: ''
     gender: m
     syns:
     - prati: महासेन
@@ -1628,18 +1799,21 @@
       gender: m
   - head: अग्नि
     verify: false
+    comment: ''
     gender: m
     syns:
     - prati: अग्निभू
       gender: m
   - head: वाहन
     verify: false
+    comment: ''
     gender: m
     syns:
     - prati: शिखिवाहन
       gender: m
   - head: तेजस्
     verify: false
+    comment: ''
     gender: n
     syns:
     - prati: महातेजस्
@@ -1648,18 +1822,21 @@
   entries:
   - head: गाङ्गेय
     verify: false
+    comment: ''
     gender: m
     syns:
     - prati: गाङ्गेय
       gender: m
   - head: ब्रह्मचारिन्
     verify: false
+    comment: ''
     gender: m
     syns:
     - prati: ब्रह्मचारी
       gender: m
   - head: कार्तिकेय
     verify: false
+    comment: ''
     gender: m
     syns:
     - prati: कार्तिकेय
@@ -1674,6 +1851,7 @@
   entries:
   - head: रहस्य
     verify: false
+    comment: ''
     gender: n
     syns:
     - prati: सर्वरहस्य
@@ -1682,6 +1860,7 @@
       gender: m
   - head: दूत
     verify: false
+    comment: ''
     gender: m
     syns:
     - prati: नील
@@ -1690,6 +1869,7 @@
       gender: m
   - head: शाखिन्
     verify: false
+    comment: ''
     gender: m
     syns:
     - prati: शाखी
@@ -1698,6 +1878,7 @@
       gender: m
   - head: नाग
     verify: false
+    comment: ''
     gender: m
     syns:
     - prati: नागमेष
@@ -1706,6 +1887,7 @@
   entries:
   - head: उमा
     verify: false
+    comment: ''
     gender: f
     syns:
     - prati: उमा
@@ -1722,12 +1904,14 @@
       gender: f
   - head: अमङ्गला
     verify: false
+    comment: ''
     gender: f
     syns:
     - prati: सर्वे अमङ्गला
       gender: f
   - head: देवी
     verify: false
+    comment: ''
     gender: f
     syns:
     - prati: आर्या
@@ -1742,6 +1926,7 @@
   entries:
   - head: षष्ठी
     verify: false
+    comment: ''
     gender: f
     syns:
     - prati: षष्ठी
@@ -1765,6 +1950,7 @@
   entries:
   - head: योगिनी
     verify: false
+    comment: ''
     gender: f
     syns:
     - prati: बर्हिध्वजा
@@ -1787,6 +1973,7 @@
   entries:
   - head: रात्रि
     verify: false
+    comment: ''
     gender: f
     syns:
     - prati: कालरात्री
@@ -1795,6 +1982,7 @@
       gender: f
   - head: काली
     verify: false
+    comment: ''
     gender: f
     syns:
     - prati: भद्रकाली
@@ -1805,12 +1993,14 @@
       gender: f
   - head: पार्षद्
     verify: false
+    comment: ''
     gender: m
     syns:
     - prati: एकपार्षद
       gender: m
   - head: पत्नी
     verify: false
+    comment: ''
     gender: f
     syns:
     - prati: एकपत्नी
@@ -1819,6 +2009,7 @@
   entries:
   - head: देवी
     verify: false
+    comment: ''
     gender: f
     syns:
     - prati: डुर्गा
@@ -1833,6 +2024,7 @@
       gender: f
   - head: भगिनी
     verify: false
+    comment: ''
     gender: f
     syns:
     - prati: स्वसा
@@ -1842,6 +2034,7 @@
   entries:
   - head: पर्वत
     verify: false
+    comment: ''
     gender: m
     syns:
     - prati: विन्ध्य
@@ -1850,18 +2043,21 @@
       gender: m
   - head: कान्तार
     verify: false
+    comment: ''
     gender: m
     syns:
     - prati: कान्तार
       gender: m
   - head: मलय
     verify: false
+    comment: ''
     gender: m
     syns:
     - prati: मलय
       gender: m
   - head: चामुण्डा
     verify: false
+    comment: ''
     gender: f
     syns:
     - prati: चर्म
@@ -1876,6 +2072,7 @@
   entries:
   - head: देवी
     verify: false
+    comment: ''
     gender: f
     syns:
     - prati: कर्णमोटी
@@ -1900,6 +2097,7 @@
   entries:
   - head: मातृ
     verify: false
+    comment: ''
     gender: f
     syns:
     - prati: कौमारी
@@ -1911,18 +2109,21 @@
   entries:
   - head: भगवत्
     verify: false
+    comment: ''
     gender: m
     syns:
     - prati: यादवप्रकाश
       gender: m
   - head: वेणीसंहार
     verify: false
+    comment: ''
     gender: m
     syns:
     - prati: काण्ड
       gender: m
   - head: देवाभ्यास
     verify: false
+    comment: ''
     gender: m
     syns:
     - prati: श्रीदेव

@@ -1,0 +1,368 @@
+मेघोऽब्दो जलदो नभ्राट् तरित्वान् जलमुद्गहः। धाराधरो वारिधरो धूमयोनिर्वलाहकः ॥:
+  entries:
+  - head: मेघ
+    verify: false
+    comment: ''
+    gender: m
+    syns:
+    - prati: मेघ
+      gender: m
+    - prati: अब्द
+      gender: m
+    - prati: जलद
+      gender: m
+    - prati: नभ्राट्
+      gender: m
+    - prati: वारिधर
+      gender: m
+    - prati: धाराधर
+      gender: m
+    - prati: वलाहक
+      gender: m
+    - prati: धूमयोनि
+      gender: m
+  - head: जल
+    verify: false
+    comment: ''
+    gender: n
+    syns:
+    - prati: जल
+      gender: n
+    - prati: जलमुद्गह
+      gender: m
+तडित्पतिः पयोगर्भो नदीनुदिरोऽम्बुधिः । कादम्बिरी मेघमाला काली कृष्णनवाम्बुदः ॥ २ ॥:
+  entries:
+  - head: मेघ
+    verify: false
+    comment: ''
+    gender: m
+    syns:
+    - prati: तडित्पति
+      gender: m
+    - prati: मेघमाला
+      gender: f
+    - prati: कृष्णनवाम्बुद
+      gender: m
+  - head: अम्बुधि
+    verify: false
+    comment: ''
+    gender: m
+    syns:
+    - prati: नदीनुद
+      gender: m
+    - prati: पयोगर्भ
+      gender: m
+  - head: काली
+    verify: false
+    comment: ''
+    gender: f
+    syns:
+    - prati: कादम्बिरी
+      gender: f
+इन्द्रायुधं विद्युन्धनुस्तदीर्घं नजु रोदितम् । स्रावतं च विद्युत् च चञ्चला चपला चला ॥:
+  entries:
+  - head: विद्युत्
+    verify: false
+    comment: ''
+    gender: f
+    syns:
+    - prati: विद्युन्धनु
+      gender: n
+    - prati: चञ्चला
+      gender: f
+    - prati: चपला
+      gender: f
+    - prati: चला
+      gender: f
+    - prati: स्रावत
+      gender: n
+  - head: इन्द्रायुध
+    verify: false
+    comment: ''
+    gender: n
+    syns:
+    - prati: विद्युत्
+      gender: f
+आकालिकी शतावती जलदा जलपालिका । क्षणात्युः क्षणिका चम्पा तरिदिष्टा शतदा ॥:
+  entries:
+  - head: जलद
+    verify: false
+    comment: ''
+    gender: m
+    syns:
+    - prati: आकालिकी
+      gender: f
+    - prati: जलद
+      gender: m
+    - prati: जलपालिका
+      gender: f
+  - head: क्षण
+    verify: false
+    comment: ''
+    gender: m
+    syns:
+    - prati: क्षणातु
+      gender: m
+    - prati: क्षणिका
+      gender: f
+    - prati: क्षण
+      gender: m
+  - head: शत
+    verify: false
+    comment: ''
+    gender: m
+    syns:
+    - prati: शतावती
+      gender: f
+    - prati: शतदा
+      gender: f
+    - prati: शत
+      gender: m
+  - head: चम्पा
+    verify: false
+    comment: ''
+    gender: f
+    syns:
+    - prati: चम्पा
+      gender: f
+    - prati: तरिदिष्टा
+      gender: f
+सौदामिन्यैरावती च तद्वदेऽप्यन्तिमत्रयम् । गर्जितं स्तनितं शीतं वज्रे हारदयः क्षितौ ॥:
+  entries:
+  - head: सौदामिनी
+    verify: false
+    comment: ''
+    gender: f
+    syns:
+    - prati: सौदामिनी
+      gender: f
+    - prati: ऐरावती
+      gender: f
+  - head: गर्जित
+    verify: false
+    comment: ''
+    gender: n
+    syns:
+    - prati: गर्जित
+      gender: n
+    - prati: स्तनित
+      gender: n
+    qual: वज्र (thunderbolt) context
+  - head: शीत
+    verify: false
+    comment: ''
+    gender: n
+    syns:
+    - prati: शीत
+      gender: n
+    qual: related to atmospheric condition
+  - head: हार
+    verify: false
+    comment: ''
+    gender: m
+    syns:
+    - prati: हार
+      gender: m
+    - prati: दय
+      gender: m
+    qual: context suggests meteorological or geological phenomenon
+वज्रपातस्तु वलिघातश्चण्डको वा शरीषणः । स्फूर्जितो वज्रनिःस्वेषो नखे वज्रो अशनिः सः ॥:
+  entries:
+  - head: वज्र
+    verify: false
+    comment: ''
+    gender: m
+    syns:
+    - prati: वज्रपात
+      gender: m
+    - prati: वलिघात
+      gender: m
+    - prati: चण्डक
+      gender: m
+    - prati: शरीषण
+      gender: m
+    - prati: स्फूर्जित
+      gender: m
+    - prati: वज्रनिःस्वेष
+      gender: m
+    - prati: नख
+      gender: m
+    - prati: अशनि
+      gender: m
+वर्ष पो अह्नी वर्षणं वृषः शीकरोऽस्य सम्भवः कणः। घनोपलस्तु करकः पुङ्गवो मचटीति च॥:
+  entries:
+  - head: वर्ष
+    verify: false
+    comment: ''
+    gender: n
+    syns:
+    - prati: वर्ष
+      gender: n
+    - prati: वर्षण
+      gender: n
+    - prati: पो
+      gender: n
+  - head: अह्न
+    verify: false
+    comment: ''
+    gender: m
+    syns:
+    - prati: अह्नी
+      gender: m
+  - head: वृष
+    verify: false
+    comment: ''
+    gender: m
+    syns:
+    - prati: वृष
+      gender: m
+    - prati: शीकर
+      gender: m
+  - head: कण
+    verify: false
+    comment: ''
+    gender: m
+    syns:
+    - prati: कण
+      gender: m
+    - prati: सम्भव
+      gender: m
+  - head: घन
+    verify: false
+    comment: ''
+    gender: m
+    syns:
+    - prati: घन
+      gender: m
+    - prati: उपल
+      gender: m
+    - prati: करक
+      gender: m
+    - prati: पुङ्गव
+      gender: m
+    - prati: मचट
+      gender: m
+विधर खी प्रशतो बिन्दुः स्तोको द्रप्सः प्रशान्न पुम् । अनावृष्टिरवग्राहौ मेघच्छन्ने ह्नि दुर्दिनम् ॥:
+  entries:
+  - head: बिन्दु
+    verify: false
+    comment: ''
+    gender: m
+    syns:
+    - prati: विधर
+      gender: m
+    - prati: खी
+      gender: m
+    - prati: प्रशत
+      gender: m
+    - prati: बिन्दु
+      gender: m
+    - prati: स्तोक
+      gender: m
+    - prati: द्रप्स
+      gender: m
+  - head: दुर्दिन
+    verify: false
+    comment: ''
+    gender: n
+    syns:
+    - prati: अनावृष्टि
+      gender: f
+    - prati: अवग्राह
+      gender: m
+    - prati: मेघच्छन्न
+      gender: n
+    - prati: दुर्दिन
+      gender: n
+    qual: when cloud covers sky
+अवश्यायस्तु नीहारः तुषारः तुदिनं हिमम् । प्रालेयं मृद्धिका चाथ हिमानी हिमसंहतिः ॥:
+  entries:
+  - head: हिम
+    verify: false
+    comment: ''
+    gender: n
+    syns:
+    - prati: नीहार
+      gender: m
+    - prati: तुषार
+      gender: m
+    - prati: तुदिन
+      gender: n
+    - prati: हिम
+      gender: n
+    - prati: प्रालेय
+      gender: n
+    - prati: हिमानी
+      gender: f
+    - prati: हिमसंहति
+      gender: f
+  - head: मृद्धिका
+    verify: false
+    comment: ''
+    gender: f
+    syns:
+    - prati: मृद्धिका
+      gender: f
+दृढोऽग्निर् गदेलिः श्री कुदेदिधूमिका त्रयी ॥:
+  entries:
+  - head: अग्नि
+    verify: false
+    comment: ''
+    gender: m
+    syns:
+    - prati: दृढ
+      gender: m
+    - prati: अग्नि
+      gender: m
+  - head: गदेलि
+    verify: false
+    comment: ''
+    gender: m
+    syns:
+    - prati: गदेलि
+      gender: m
+  - head: श्री
+    verify: false
+    comment: ''
+    gender: f
+    syns:
+    - prati: श्री
+      gender: f
+  - head: त्रयी
+    verify: false
+    comment: ''
+    gender: f
+    syns:
+    - prati: कुदेदिधूमिका
+      gender: f
+    - prati: त्रयी
+      gender: f
+इति भगवता यादवध्रकाशेन विरचितायां चैनयन्त्यां मन्तरिक्षकाण्डे मेघाध्यायः ॥:
+  entries:
+  - head: भगवत्
+    verify: false
+    comment: ''
+    gender: m
+    syns:
+    - prati: भगवत्
+      gender: m
+    - prati: यादवध्रकाश
+      gender: m
+  - head: काण्ड
+    verify: false
+    comment: ''
+    gender: m
+    syns:
+    - prati: काण्ड
+      gender: m
+    - prati: मन्तरिक्ष
+      gender: m
+  - head: अध्याय
+    verify: false
+    comment: ''
+    gender: m
+    syns:
+    - prati: अध्याय
+      gender: m
+    - prati: मेघ
+      gender: m

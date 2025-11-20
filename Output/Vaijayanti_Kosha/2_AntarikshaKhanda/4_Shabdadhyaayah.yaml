@@ -1,0 +1,1809 @@
+शब्दो व्योमरुणस्वानः स्वनिः स्वाननिस्वनाः। निःश्रुतो रवणो नादो च्छेदो ध्वानो ध्वनिः कवः॥:
+  entries:
+  - head: शब्द
+    verify: false
+    comment: ''
+    gender: m
+    syns:
+    - prati: व्योम
+      gender: m
+    - prati: रुण
+      gender: m
+    - prati: स्वान
+      gender: m
+    - prati: स्वनि
+      gender: m
+    - prati: स्वानन
+      gender: m
+    - prati: निःश्रुत
+      gender: m
+    - prati: रवण
+      gender: m
+    - prati: नाद
+      gender: m
+    - prati: च्छेद
+      gender: m
+    - prati: ध्वान
+      gender: m
+    - prati: ध्वनि
+      gender: m
+    - prati: कव
+      gender: m
+कणिकोदो रसो धरणा घोषो रजज्ञनमुज्ज्वले । गज्ञनं मदनं कामं गानं कोरणरेभणे ॥:
+  entries:
+  - head: कण
+    verify: false
+    comment: ''
+    gender: m
+    syns:
+    - prati: कणिक
+      gender: m
+    - prati: कणिकोद
+      gender: m
+  - head: रस
+    verify: false
+    comment: ''
+    gender: m
+    syns:
+    - prati: रस
+      gender: m
+  - head: धरणा
+    verify: false
+    comment: ''
+    gender: f
+    syns:
+    - prati: धरणा
+      gender: f
+    - prati: घोष
+      gender: m
+  - head: ज्ञान
+    verify: false
+    comment: ''
+    gender: n
+    syns:
+    - prati: रजज्ञन
+      gender: n
+    - prati: गज्ञन
+      gender: n
+  - head: मदन
+    verify: false
+    comment: ''
+    gender: m
+    syns:
+    - prati: काम
+      gender: m
+    - prati: मदन
+      gender: m
+  - head: गान
+    verify: false
+    comment: ''
+    gender: n
+    syns:
+    - prati: गान
+      gender: n
+    - prati: कोरण
+      gender: n
+    - prati: रेभण
+      gender: n
+कूजनं कूजितं गजे न क्लीबे गजेन नाम् । क्रोश उच्चस्वने प्राणिस्वने वाराघोष आरवः ॥:
+  entries:
+  - head: स्वन
+    verify: false
+    comment: ''
+    gender: m
+    syns:
+    - prati: कूजन
+      gender: n
+    - prati: कूजित
+      gender: n
+    - prati: आरव
+      gender: m
+    - prati: क्रोश
+      gender: m
+    - prati: प्राणिस्वन
+      gender: m
+  - head: गज
+    verify: false
+    comment: ''
+    gender: m
+    syns:
+    - prati: गज
+      gender: m
+    qual: reference to elephant sound or context
+'रवो विराव: संराव: रुतं चेत्यथ वाशनम् । वाशितं च तिरश्चां स्यात् ध्वनौ खे घोरवाशितम् ॥':
+  entries:
+  - head: रव
+    verify: false
+    comment: ''
+    gender: m
+    syns:
+    - prati: विराव
+      gender: m
+    - prati: संराव
+      gender: m
+  - head: रुत
+    verify: false
+    comment: ''
+    gender: n
+    syns:
+    - prati: वाशन
+      gender: n
+  - head: वाशित
+    verify: false
+    comment: ''
+    gender: n
+    qual: ध्वनौ, तिरश्चाम्
+    syns:
+    - prati: घोरवाशित
+      gender: n
+घोर्षितं तुरगादीनां नासापुटभवे ध्वनौ। तन्दनं रम्भणं रम्भा रम्भितं च गवां ध्वनिः॥:
+  entries:
+  - head: ध्वनि
+    verify: false
+    comment: ''
+    gender: m
+    syns:
+    - prati: घोर्षित
+      gender: n
+    - prati: तन्दन
+      gender: n
+    - prati: रम्भण
+      gender: n
+    - prati: रम्भा
+      gender: f
+    - prati: रम्भित
+      gender: n
+    - prati: ध्वनि
+      gender: m
+    qual: related to sounds of animals (turaga/horses)
+बुक्नं आभुकध्वाने भाषणं भणितं शुनः। वृकस्य रोषणं रोषा देशा हेषा च वाजिनाम्॥:
+  entries:
+  - head: भाषण
+    verify: false
+    comment: ''
+    gender: n
+    syns:
+    - prati: बुक्न
+      gender: n
+    - prati: भणित
+      gender: n
+    - prati: ध्वान
+      gender: n
+  - head: रोष
+    verify: false
+    comment: ''
+    gender: m
+    syns:
+    - prati: रोषण
+      gender: m
+    - prati: हेष
+      gender: m
+    qual: वृक (wolf) context
+  - head: देश
+    verify: false
+    comment: ''
+    gender: m
+    syns:
+    - prati: वाजिन
+      gender: m
+छृंहितं करिणां शब्दो राजा नादी मनीषितम् । काकुः श्री भिन्नकण्ठोत्थः शोककोपादिवैकृतात् ॥:
+  entries:
+  - head: शब्द
+    verify: false
+    comment: ''
+    gender: m
+    syns:
+    - prati: नाद
+      gender: m
+    - prati: शब्द
+      gender: m
+  - head: राजन्
+    verify: false
+    comment: ''
+    gender: m
+    syns:
+    - prati: राजा
+      gender: m
+  - head: काकु
+    verify: false
+    comment: ''
+    gender: f
+    qual: भिन्नकण्ठोत्थ
+    syns:
+    - prati: श्री
+      gender: f
+  - head: शोक
+    verify: false
+    comment: ''
+    gender: m
+    qual: कोपादिवैकृत
+    syns:
+    - prati: शोक
+      gender: m
+उत्कन्दा कृते पत्रवाद्यानां तु मर्मरः। पदेन गुणे शब्दे कदनं निःश्रितं कृते ॥:
+  entries:
+  - head: उत्कन्द
+    verify: false
+    comment: ''
+    gender: m
+    syns:
+    - prati: उत्कन्द
+      gender: m
+  - head: पत्रवाद्य
+    verify: false
+    comment: ''
+    gender: n
+    syns:
+    - prati: पत्रवाद्य
+      gender: n
+  - head: मर्मर
+    verify: false
+    comment: ''
+    gender: m
+    syns:
+    - prati: मर्मर
+      gender: m
+  - head: पद
+    verify: false
+    comment: ''
+    gender: n
+    syns:
+    - prati: पद
+      gender: n
+  - head: गुण
+    verify: false
+    comment: ''
+    gender: m
+    syns:
+    - prati: गुण
+      gender: m
+  - head: शब्द
+    verify: false
+    comment: ''
+    gender: m
+    syns:
+    - prati: शब्द
+      gender: m
+  - head: कदन
+    verify: false
+    comment: ''
+    gender: n
+    syns:
+    - prati: कदन
+      gender: n
+  - head: निःश्रित
+    verify: false
+    comment: ''
+    gender: n
+    syns:
+    - prati: निःश्रित
+      gender: n
+विस्फारो धनुषः स्वानो भूषादीनां तु शिञ्जितम् । प्रणादस्त्वनुरागोऽस्थ चित्रतं स्यन्दनध्वनौ ॥:
+  entries:
+  - head: धनुष्
+    verify: false
+    comment: ''
+    gender: n
+    syns:
+    - prati: विस्फार
+      gender: m
+    - prati: स्वान
+      gender: m
+  - head: भूषा
+    verify: false
+    comment: ''
+    gender: f
+    syns:
+    - prati: शिञ्जित
+      gender: n
+  - head: प्रणाद
+    verify: false
+    comment: ''
+    gender: m
+    syns:
+    - prati: अनुराग
+      gender: m
+  - head: स्यन्दन
+    verify: false
+    comment: ''
+    gender: m
+    syns:
+    - prati: ध्वनि
+      gender: m
+    - prati: चित्रत
+      gender: n
+सखरोत्साहं खरको युद्धध्वाने कम्पनयोधने । माजने सुरजध्वाने गुन्दिलि महलध्वनौ ॥:
+  entries:
+  - head: उत्साह
+    verify: false
+    comment: ''
+    gender: m
+    syns:
+    - prati: सख
+      gender: m
+  - head: युद्ध
+    verify: false
+    comment: ''
+    gender: n
+    syns:
+    - prati: ध्वान
+      gender: m
+    - prati: कम्पन
+      gender: n
+    - prati: योधन
+      gender: n
+  - head: ध्वनि
+    verify: false
+    comment: ''
+    gender: m
+    syns:
+    - prati: माजन
+      gender: n
+    - prati: सुरजध्वान
+      gender: m
+    - prati: गुन्दिलि
+      gender: m
+    - prati: महलध्वन
+      gender: m
+वाणं हृद्गदहिकायां भेरीनदे तु टष्टरः। क्षणनं कणितं काणो निःक्राणो निकणः कणः ॥:
+  entries:
+  - head: वाण
+    verify: false
+    comment: ''
+    gender: m
+    syns:
+    - prati: वाण
+      gender: m
+  - head: कण
+    verify: false
+    comment: ''
+    gender: m
+    syns:
+    - prati: कण
+      gender: m
+    - prati: निकण
+      gender: m
+    - prati: क्षणन
+      gender: m
+    - prati: कणित
+      gender: m
+  - head: टष्टर
+    verify: false
+    comment: ''
+    gender: m
+    syns:
+    - prati: टष्टर
+      gender: m
+  - head: काण
+    verify: false
+    comment: ''
+    gender: m
+    syns:
+    - prati: काण
+      gender: m
+    - prati: निःक्राण
+      gender: m
+वीणायाः कर्णतेः प्रादेः प्रकाशप्रकणादयः। खी प्रतिश्रुत प्रतिध्वाने तुमुले व्याकुले श्रशम् ॥:
+  entries:
+  - head: प्रकाश
+    verify: false
+    comment: ''
+    gender: m
+    syns:
+    - prati: प्रकाश
+      gender: m
+    - prati: प्रकण
+      gender: m
+  - head: प्रतिध्वान
+    verify: false
+    comment: ''
+    gender: m
+    syns:
+    - prati: प्रतिश्रुत
+      gender: m
+    - prati: प्रतिध्वान
+      gender: m
+  - head: व्याकुल
+    verify: false
+    comment: ''
+    gender: m
+    syns:
+    - prati: तुमुल
+      gender: m
+    - prati: व्याकुल
+      gender: m
+गम्भीरे मन्द्र चेतु तारो रम्यास्फुटे कलः। समाहितस्तु निर्दोषवर्णे दोषयुताः परे ॥:
+  entries:
+  - head: गम्भीर
+    verify: false
+    comment: ''
+    gender: m
+    syns:
+    - prati: गम्भीर
+      gender: m
+    - prati: मन्द्र
+      gender: m
+  - head: चेतु
+    verify: false
+    comment: ''
+    gender: m
+    syns:
+    - prati: चेतु
+      gender: m
+    - prati: तार
+      gender: m
+  - head: कल
+    verify: false
+    comment: ''
+    gender: m
+    syns:
+    - prati: कल
+      gender: m
+    - prati: रम्य
+      gender: m
+  - head: निर्दोष
+    verify: false
+    comment: ''
+    gender: m
+    syns:
+    - prati: निर्दोष
+      gender: m
+    - prati: समाहित
+      gender: m
+  - head: दोष
+    verify: false
+    comment: ''
+    gender: m
+    syns:
+    - prati: दोष
+      gender: m
+अत्युच्चारणगर्वेण पीडितोऽपि समाहितः। एणीकृतः प्रतिध्वानदन्तुरो माहिषश्च सः ॥:
+  entries:
+  - head: माहिष
+    verify: false
+    comment: ''
+    gender: m
+    syns:
+    - prati: माहिष
+      gender: m
+    - prati: एणीकृत
+      gender: m
+    - prati: प्रतिध्वानदन्तुर
+      gender: m
+    qual: पीडित, समाहित
+  - head: गर्व
+    verify: false
+    comment: ''
+    gender: m
+    syns:
+    - prati: अत्युच्चारण
+      gender: m
+कल्हस्तु गलमूलस्थो गद्गदो मनुजे स्फुटः। लालको बालानुकृतौ लज्जलो जिह्वया हतः ॥:
+  entries:
+  - head: कल्ह
+    verify: false
+    comment: ''
+    gender: m
+    syns:
+    - prati: कल्ह
+      gender: m
+  - head: गद्गद
+    verify: false
+    comment: ''
+    gender: m
+    syns:
+    - prati: गद्गद
+      gender: m
+    - prati: स्फुट
+      gender: m
+    qual: स्वरभेदे, भावाभिव्यक्तौ
+  - head: लालक
+    verify: false
+    comment: ''
+    gender: m
+    syns:
+    - prati: लालक
+      gender: m
+    qual: बालानुकृतौ
+  - head: लज्जल
+    verify: false
+    comment: ''
+    gender: m
+    syns:
+    - prati: लज्जल
+      gender: m
+    qual: लज्जया युक्त
+शिथिलोऽस्पष्टकलापयोगस्तुम्बुकः सालुनासिकः। सान्त्वं स्यान्मधुरं वाक्यं स्यादवाच्यमनक्षरम् ॥:
+  entries:
+  - head: शिथिल
+    verify: false
+    comment: ''
+    gender: m
+    syns:
+    - prati: शिथिल
+      gender: m
+    - prati: अस्पष्ट
+      gender: m
+    qual: weak, unclear
+  - head: तुम्बुक
+    verify: false
+    comment: ''
+    gender: m
+    syns:
+    - prati: तुम्बुक
+      gender: m
+    - prati: सालुनासिक
+      gender: m
+  - head: वाक्य
+    verify: false
+    comment: ''
+    gender: n
+    syns:
+    - prati: मधुर
+      gender: n
+    - prati: सान्त्व
+      gender: n
+    - prati: अवाच्य
+      gender: n
+    - prati: अनक्षर
+      gender: n
+    qual: speech, words
+अनिबद्धं तृज्वा वचनं षष्टार्थं तु सङ्कुलम् । अनृते वितथालापो वादतां गृह्यते ऽर्थके ॥:
+  entries:
+  - head: वचन
+    verify: false
+    comment: ''
+    gender: n
+    syns:
+    - prati: अनिबद्ध
+      gender: n
+    - prati: वचन
+      gender: n
+  - head: अर्थ
+    verify: false
+    comment: ''
+    gender: m
+    syns:
+    - prati: षष्टार्थ
+      gender: m
+    - prati: अर्थ
+      gender: m
+  - head: वाद
+    verify: false
+    comment: ''
+    gender: m
+    syns:
+    - prati: वितथालाप
+      gender: m
+    - prati: वाद
+      gender: m
+अम्बूकृतं सनिष्ठीवं स्याद्बद्धमनर्थकम् । कल्या तु वाचि कल्याण्यां रुषिता तद्विपर्यये ॥:
+  entries:
+  - head: अनर्थक
+    verify: false
+    comment: ''
+    gender: n
+    syns:
+    - prati: बद्ध
+      gender: n
+  - head: निष्ठीव
+    verify: false
+    comment: ''
+    gender: m
+    syns:
+    - prati: अम्बूकृत
+      gender: m
+  - head: वाच्
+    verify: false
+    comment: ''
+    gender: f
+    syns:
+    - prati: कल्या
+      gender: f
+  - head: कल्याण
+    verify: false
+    comment: ''
+    gender: n
+    syns:
+    - prati: कल्याणी
+      gender: f
+  - head: रुषित
+    verify: false
+    comment: ''
+    gender: m
+    syns:
+    - prati: रुषित
+      gender: m
+छ्लवाक्तु निरानन्दा शोकभारेण तीर्यते। कोधगमौ तु व्यथिता दैन्यगर्भौ तु नश्वरी ॥:
+  entries:
+  - head: आनन्द
+    verify: false
+    comment: ''
+    gender: m
+    syns:
+    - prati: नीरानन्द
+      gender: m
+    qual: lack of happiness
+  - head: शोक
+    verify: false
+    comment: ''
+    gender: m
+    syns:
+    - prati: शोकभार
+      gender: m
+    qual: grief, burden of sorrow
+  - head: कोध
+    verify: false
+    comment: ''
+    gender: m
+    syns:
+    - prati: कोधगम
+      gender: m
+  - head: दैन्य
+    verify: false
+    comment: ''
+    gender: n
+    syns:
+    - prati: दैन्यगर्भ
+      gender: n
+    qual: state of misery
+निर्वेदगर्भौ निस्तङ्गा स्नेहगमौ तु मालुकी। विरहे खण्डिता मोदे शल्या लोभे तु जाङ्गली ॥:
+  entries:
+  - head: निर्वेद
+    verify: false
+    comment: ''
+    gender: m
+    syns:
+    - prati: निस्तङ्ग
+      gender: m
+  - head: स्नेह
+    verify: false
+    comment: ''
+    gender: m
+    syns:
+    - prati: मालुकी
+      gender: f
+  - head: विरह
+    verify: false
+    comment: ''
+    gender: m
+    syns:
+    - prati: खण्डिता
+      gender: f
+  - head: मोद
+    verify: false
+    comment: ''
+    gender: m
+    syns:
+    - prati: शल्या
+      gender: f
+  - head: लोभ
+    verify: false
+    comment: ''
+    gender: m
+    syns:
+    - prati: जाङ्गली
+      gender: f
+निष्ठुरा परुषा क्रुधे त्रिषु स्युस्तुमुलादयः। अखिलौ वर्णमानं च वाक्यं तु वचनं वचः॥:
+  entries:
+  - head: निष्ठुर
+    verify: false
+    comment: ''
+    gender: m
+    syns:
+    - prati: निष्ठुर
+      gender: m
+    - prati: परुष
+      gender: m
+    - prati: क्रुध
+      gender: m
+  - head: तुमुल
+    verify: false
+    comment: ''
+    gender: m
+    syns:
+    - prati: तुमुल
+      gender: m
+    qual: त्रिषु सन्दर्भे
+  - head: वचन
+    verify: false
+    comment: ''
+    gender: n
+    syns:
+    - prati: वाक्य
+      gender: n
+    - prati: वचन
+      gender: n
+    - prati: वचः
+      gender: n
+आम्रेडितं निगदितं गुणितं घोषितं समे। अर्थज्ञया सुधा प्रोक्तमनुलापश्च वर्तनम् ॥:
+  entries:
+  - head: आम्रेडित
+    verify: false
+    comment: ''
+    gender: n
+    syns:
+    - prati: निगदित
+      gender: n
+    - prati: गुणित
+      gender: n
+    - prati: घोषित
+      gender: n
+    qual: repeated or emphasized utterance
+  - head: अनुलाप
+    verify: false
+    comment: ''
+    gender: m
+    syns:
+    - prati: वर्तन
+      gender: n
+    - prati: प्रोक्त
+      gender: n
+    qual: manner of speaking or expression
+सम्भाषणं सर्वभाषणमालापः कुरुकुच्छिका । उपसम्भाषणं साम्नि तत्पदच्छन्नं यदि ॥:
+  entries:
+  - head: संभाषण
+    verify: false
+    comment: ''
+    gender: n
+    syns:
+    - prati: संभाषण
+      gender: n
+    - prati: सर्वभाषण
+      gender: n
+    - prati: आलाप
+      gender: m
+    - prati: कुरुकुच्छिका
+      gender: f
+    - prati: उपसंभाषण
+      gender: n
+    qual: conversation, dialogue
+धनादि स्यात् प्रतिज्ञातं गुह्ये तदुपमन्त्रणम् । विभावणं विवादे स्याद् अनुवादोऽलुभाषणम् ॥:
+  entries:
+  - head: धन
+    verify: false
+    comment: ''
+    gender: n
+    syns:
+    - prati: धनादि
+      gender: n
+  - head: प्रतिज्ञा
+    verify: false
+    comment: ''
+    gender: f
+    syns:
+    - prati: प्रतिज्ञात
+      gender: n
+  - head: गुह्य
+    verify: false
+    comment: ''
+    gender: n
+    syns:
+    - prati: उपमन्त्रण
+      gender: n
+  - head: विभावन
+    verify: false
+    comment: ''
+    gender: n
+    syns:
+    - prati: विभावण
+      gender: n
+  - head: विवाद
+    verify: false
+    comment: ''
+    gender: m
+    syns:
+    - prati: विवाद
+      gender: m
+  - head: अनुवाद
+    verify: false
+    comment: ''
+    gender: m
+    syns:
+    - prati: अनुवाद
+      gender: m
+    - prati: अलुभाषण
+      gender: n
+आख्यायनी तु सन्देशो दिष्टं संबोधनं च तत् । संबोधनं वाचिकं च बला रावतिचाटुवाक् ॥:
+  entries:
+  - head: संबोधन
+    verify: false
+    comment: ''
+    gender: n
+    syns:
+    - prati: संबोधन
+      gender: n
+    - prati: दिष्ट
+      gender: n
+    - prati: संदेश
+      gender: m
+  - head: वाक्
+    verify: false
+    comment: ''
+    gender: f
+    syns:
+    - prati: बला
+      gender: f
+    - prati: रावति
+      gender: f
+    - prati: चाटु
+      gender: n
+    - prati: वाक्
+      gender: f
+  - head: आख्यायनी
+    verify: false
+    comment: ''
+    gender: f
+    syns:
+    - prati: आख्यायनी
+      gender: f
+लज्जया पिन्नया येति सूत्रिते वचनद्वयम् । भावना स्यात्प्रबन्धे पोषणा तत्क्रतं वचः ॥:
+  entries:
+  - head: वचन
+    verify: false
+    comment: ''
+    gender: n
+    syns:
+    - prati: वचन
+      gender: n
+    - prati: वचः
+      gender: n
+  - head: भावना
+    verify: false
+    comment: ''
+    gender: f
+    syns:
+    - prati: भावना
+      gender: f
+    - prati: पोषणा
+      gender: f
+  - head: प्रबन्ध
+    verify: false
+    comment: ''
+    gender: m
+    syns:
+    - prati: प्रबन्ध
+      gender: m
+  - head: लज्जा
+    verify: false
+    comment: ''
+    gender: f
+    syns:
+    - prati: लज्जा
+      gender: f
+    - prati: पिन्ना
+      gender: f
+कोलादलः कलकलः छुञ्जनाऽस्मिन्नपक्षधि । चर्ची चर्भटी तुल्ये रथ्यावादे तु कोदलः ॥:
+  entries:
+  - head: कोदल
+    verify: false
+    comment: ''
+    gender: m
+    syns:
+    - prati: कोल
+      gender: m
+    - prati: अलक
+      gender: m
+    - prati: कोदल
+      gender: m
+    qual: रथ्यावादे
+  - head: चर्भट
+    verify: false
+    comment: ''
+    gender: m
+    syns:
+    - prati: चर्ची
+      gender: f
+    - prati: चर्भट
+      gender: m
+    qual: तुल्ये
+  - head: कलकल
+    verify: false
+    comment: ''
+    gender: m
+    syns:
+    - prati: छुञ्जन
+      gender: m
+    - prati: कलकल
+      gender: m
+    qual: अस्मिन्नपक्षधि
+दृढूमस्तु कौरव्या विगवौ गवेहारिका । लोचना तु विचारोक्तिर्लोटना सानुसारवा ॥:
+  entries:
+  - head: कौरव्य
+    verify: false
+    comment: ''
+    gender: m
+    syns:
+    - prati: दृढूमस्
+      gender: m
+    - prati: कौरव्य
+      gender: m
+  - head: विगव
+    verify: false
+    comment: ''
+    gender: m
+    syns:
+    - prati: गवेहारिक
+      gender: m
+    - prati: विगव
+      gender: m
+  - head: विचारोक्ति
+    verify: false
+    comment: ''
+    gender: f
+    syns:
+    - prati: लोचन
+      gender: n
+    - prati: विचारोक्ति
+      gender: f
+  - head: लोटन
+    verify: false
+    comment: ''
+    gender: n
+    syns:
+    - prati: सानुसारव
+      gender: n
+    - prati: लोटन
+      gender: n
+विप्रलापो विरोधोक्तिः संलापो भाषणं मिथः। कथा वचनसंज्ञापो विलापः परिदेवनम् ॥:
+  entries:
+  - head: विप्रलाप
+    verify: false
+    comment: ''
+    gender: m
+    syns:
+    - prati: विप्रलाप
+      gender: m
+    - prati: विलाप
+      gender: m
+    - prati: विरोधोक्ति
+      gender: f
+    - prati: परिदेवन
+      gender: n
+  - head: संलाप
+    verify: false
+    comment: ''
+    gender: m
+    syns:
+    - prati: संलाप
+      gender: m
+    - prati: भाषण
+      gender: n
+    - prati: कथा
+      gender: f
+    - prati: वचनसंज्ञाप
+      gender: m
+प्रलापोऽर्थकं त्राक्यमपलापस्त्वपहवः। अपव्ययोऽप्यवज्ञाऽपि हूतिस्त्वाकारणा हवः ॥:
+  entries:
+  - head: प्रलाप
+    verify: false
+    comment: ''
+    gender: m
+    syns:
+    - prati: प्रलाप
+      gender: m
+    - prati: अर्थक
+      gender: m
+    - prati: त्राक्य
+      gender: m
+  - head: अपलाप
+    verify: false
+    comment: ''
+    gender: m
+    syns:
+    - prati: अपलाप
+      gender: m
+    - prati: अपहव
+      gender: m
+  - head: अपव्यय
+    verify: false
+    comment: ''
+    gender: m
+    syns:
+    - prati: अपव्यय
+      gender: m
+    - prati: अवज्ञा
+      gender: f
+    - prati: हूति
+      gender: f
+    - prati: आकारण
+      gender: m
+    - prati: हव
+      gender: m
+हकारान्मन्त्रणाह्वानं संहूतिर्वहुमिः कृता । अभिधानं नामेयं नामाख्याह्वाभिधाह्वयः ॥:
+  entries:
+  - head: मन्त्रण
+    verify: false
+    comment: ''
+    gender: n
+    syns:
+    - prati: आह्वान
+      gender: n
+    - prati: संहूति
+      gender: f
+    - prati: अभिधान
+      gender: n
+  - head: नाम
+    verify: false
+    comment: ''
+    gender: n
+    syns:
+    - prati: अख्या
+      gender: f
+    - prati: आह्व
+      gender: m
+    - prati: अभिधा
+      gender: f
+६. मिथ्याऽभियोगोऽभिख्यानममिषापोऽभिशंसनम् । शापोऽधिर्तेप आक्रोशः परिवादोऽप्यवर्णयत् ॥:
+  entries:
+  - head: अभियोग
+    verify: false
+    comment: ''
+    gender: m
+    syns:
+    - prati: मिथ्याऽभियोग
+      gender: m
+    - prati: अभिख्यान
+      gender: n
+    - prati: अभिशंसन
+      gender: n
+  - head: शाप
+    verify: false
+    comment: ''
+    gender: m
+    syns:
+    - prati: अभिषाप
+      gender: m
+    - prati: आक्रोश
+      gender: m
+    - prati: परिवाद
+      gender: m
+    - prati: अधिर्त
+      gender: m
+    - prati: तेप
+      gender: m
+अवर्णवादो निवेदोऽप्यपवादो विरूक्षणम् । क्षारणं ग्रहणं निन्दा जुगुप्सा गालिर् उच्यते ॥:
+  entries:
+  - head: निन्दा
+    verify: false
+    comment: ''
+    gender: f
+    syns:
+    - prati: अपवाद
+      gender: m
+    - prati: अवर्णवाद
+      gender: m
+    - prati: निवेद
+      gender: m
+    - prati: विरूक्षण
+      gender: n
+    - prati: क्षारण
+      gender: n
+    - prati: ग्रहण
+      gender: n
+    - prati: जुगुप्सा
+      gender: f
+    - prati: गालि
+      gender: m
+जनवादस्तु वचनं भक्तिज्ञं प्रतिपदम्। आख्यारण्यं विधुबनं अक्रोशो मैथुलं प्रति॥:
+  entries:
+  - head: वचन
+    verify: false
+    comment: ''
+    gender: n
+    syns:
+    - prati: जनवाद
+      gender: m
+    - prati: वचन
+      gender: n
+  - head: वन
+    verify: false
+    comment: ''
+    gender: n
+    syns:
+    - prati: अरण्य
+      gender: n
+    - prati: विधुबन
+      gender: n
+  - head: क्रोश
+    verify: false
+    comment: ''
+    gender: m
+    syns:
+    - prati: अक्रोश
+      gender: m
+    - prati: मैथुल
+      gender: m
+    qual: प्रति
+उत्साहः स्याद् उपालम्भः परिषद्भाषणं च तत् । प्रशंसा शंसा श्लाघा च स्तवः स्तोत्रं स्तुतिर्हृतिः ॥:
+  entries:
+  - head: उत्साह
+    verify: false
+    comment: ''
+    gender: m
+    syns:
+    - prati: उत्साह
+      gender: m
+  - head: परिषद्भाषण
+    verify: false
+    comment: ''
+    gender: n
+    syns:
+    - prati: परिषद्भाषण
+      gender: n
+  - head: प्रशंसा
+    verify: false
+    comment: ''
+    gender: f
+    syns:
+    - prati: प्रशंसा
+      gender: f
+    - prati: शंसा
+      gender: f
+    - prati: श्लाघा
+      gender: f
+    - prati: स्तव
+      gender: m
+    - prati: स्तोत्र
+      gender: n
+    - prati: स्तुति
+      gender: f
+    - prati: हृति
+      gender: f
+  - head: उपालम्भ
+    verify: false
+    comment: ''
+    gender: m
+    syns:
+    - prati: उपालम्भ
+      gender: m
+'यशो जयोदाहरणं साधुवादो गुणाश्रयः । ख्याति: कीर्ति: समज्ञा च सन्देशगिरि वाचिकम् ॥':
+  entries:
+  - head: यश
+    verify: false
+    comment: ''
+    gender: n
+    syns:
+    - prati: जय
+      gender: m
+    - prati: कीर्ति
+      gender: f
+    - prati: ख्याति
+      gender: f
+    - prati: सन्देश
+      gender: m
+  - head: वाचिक
+    verify: false
+    comment: ''
+    gender: n
+    syns:
+    - prati: आहरण
+      gender: n
+    - prati: गिरि
+      gender: m
+    - prati: साधुवाद
+      gender: m
+अथैवादः परार्थोक्तिः प्रहः पर्यनुयोगवत् । अनुयोगश्च पश्चाच च प्रतिवाक्यं तदुत्तरम् ॥:
+  entries:
+  - head: अर्थ
+    verify: false
+    comment: ''
+    gender: m
+    syns:
+    - prati: परार्थ
+      gender: m
+    - prati: अर्थ
+      gender: m
+  - head: उक्ति
+    verify: false
+    comment: ''
+    gender: f
+    syns:
+    - prati: परार्थोक्ति
+      gender: f
+    - prati: उक्ति
+      gender: f
+  - head: प्रह
+    verify: false
+    comment: ''
+    gender: m
+    syns:
+    - prati: प्रह
+      gender: m
+    - prati: पर्यनुयोग
+      gender: m
+  - head: अनुयोग
+    verify: false
+    comment: ''
+    gender: m
+    syns:
+    - prati: अनुयोग
+      gender: m
+    - prati: पश्चात्
+      gender: m
+  - head: उत्तर
+    verify: false
+    comment: ''
+    gender: n
+    syns:
+    - prati: प्रतिवाक्य
+      gender: n
+    - prati: उत्तर
+      gender: n
+कथा त्वाख्यानिका ख्यानं पुराणं पञ्चलक्षणम् । इतिहासः पुराबृत्तं एतिहासमितिह्यभम् ॥:
+  entries:
+  - head: कथा
+    verify: false
+    comment: ''
+    gender: f
+    syns:
+    - prati: कथा
+      gender: f
+    - prati: आख्यानिका
+      gender: f
+  - head: ख्यान
+    verify: false
+    comment: ''
+    gender: n
+    syns:
+    - prati: ख्यान
+      gender: n
+  - head: पुराण
+    verify: false
+    comment: ''
+    gender: n
+    syns:
+    - prati: पुराण
+      gender: n
+    - prati: पुराबृत्त
+      gender: n
+    qual: पञ्चलक्षणम्
+  - head: इतिहास
+    verify: false
+    comment: ''
+    gender: m
+    syns:
+    - prati: इतिहास
+      gender: m
+    - prati: इतिह्य
+      gender: n
+वात्तोदन्तोऽपि वृत्तान्तः किंवदन्ती जनश्रुतिः । प्रवल्हिका प्रहेलिका श्रजल्पनं बहूदितम् ॥:
+  entries:
+  - head: वृत्तान्त
+    verify: false
+    comment: ''
+    gender: m
+    syns:
+    - prati: वात्तोदन्त
+      gender: m
+    - prati: वृत्तान्त
+      gender: m
+  - head: जनश्रुति
+    verify: false
+    comment: ''
+    gender: f
+    syns:
+    - prati: किंवदन्ती
+      gender: f
+    - prati: जनश्रुति
+      gender: f
+  - head: प्रहेलिका
+    verify: false
+    comment: ''
+    gender: f
+    syns:
+    - prati: प्रवल्हिका
+      gender: f
+    - prati: प्रहेलिका
+      gender: f
+  - head: श्रजल्पन
+    verify: false
+    comment: ''
+    gender: n
+    syns:
+    - prati: श्रजल्पन
+      gender: n
+    qual: बहूदितम्
+भिकल्पना प्रथक्क्रिया'वधारणान्यनिहतिः। समस्या तु समासः स्यात् संक्षेपः स्यादविस्तरः ॥:
+  entries:
+  - head: विकल्पन
+    verify: false
+    comment: ''
+    gender: n
+    syns:
+    - prati: भिकल्पना
+      gender: f
+    - prati: विकल्पन
+      gender: n
+  - head: क्रिया
+    verify: false
+    comment: ''
+    gender: f
+    syns:
+    - prati: प्रथक्क्रिया
+      gender: f
+    - prati: क्रिया
+      gender: f
+  - head: अवधारण
+    verify: false
+    comment: ''
+    gender: n
+    syns:
+    - prati: अवधारणा
+      gender: f
+    - prati: अवधारण
+      gender: n
+  - head: समस्या
+    verify: false
+    comment: ''
+    gender: f
+    syns:
+    - prati: समस्या
+      gender: f
+    - prati: समास
+      gender: m
+  - head: संक्षेप
+    verify: false
+    comment: ''
+    gender: m
+    syns:
+    - prati: संक्षेप
+      gender: m
+    - prati: अविस्तर
+      gender: m
+'उपोद्घात उदाहार उपन्यास पुरोवचः। भास्तव: पुनरुद्धात: सोऽधिकार उपक्रम: ॥':
+  entries:
+  - head: उपोद्घात
+    verify: false
+    comment: ''
+    gender: m
+    syns:
+    - prati: उदाहार
+      gender: m
+    - prati: उपन्यास
+      gender: m
+    - prati: पुरोवच
+      gender: m
+    - prati: भास्तव
+      gender: m
+    - prati: पुनरुद्धात
+      gender: m
+    - prati: अधिकार
+      gender: m
+    - prati: उपक्रम
+      gender: m
+गद्यपद्यमयी चम्पूः सारिणी पद्यमात्रिका। शृङ्गारायधिकं काव्यं समासाभ्यं तु दण्डकम् ॥:
+  entries:
+  - head: काव्य
+    verify: false
+    comment: ''
+    gender: n
+    syns:
+    - prati: काव्य
+      gender: n
+    - prati: सारिणी
+      gender: f
+    - prati: चम्पू
+      gender: f
+    - prati: पद्यमात्रिका
+      gender: f
+    qual: गद्यपद्यमयी, शृङ्गारायधिकं
+  - head: दण्डक
+    verify: false
+    comment: ''
+    gender: m
+    syns:
+    - prati: दण्डक
+      gender: m
+    qual: समासाभ्यं
+इति भगवता यादवरकाशेन विरचितायां वैजयन्त्यां अन्तरिक्षखण्डे शब्दाभ्यासः ॥:
+  entries:
+  - head: भगवत्
+    verify: false
+    comment: ''
+    gender: m
+    syns:
+    - prati: यादवरकाश
+      gender: m
+  - head: शब्द
+    verify: false
+    comment: ''
+    gender: m
+    syns:
+    - prati: अभ्यास
+      gender: m
+  - head: वैजयन्ती
+    verify: false
+    comment: ''
+    gender: f
+    syns:
+    - prati: अन्तरिक्ष
+      gender: n
+    - prati: खण्ड
+      gender: m
+भूमिर्वृन्दी घनत्रेणी स्थलगा गिरिकर्णिका । क्षोणी सर्वता दक्षा च मा क्षान्तिर्भ्रमा श्वरः ॥:
+  entries:
+  - head: भूमि
+    verify: false
+    comment: ''
+    gender: f
+    syns:
+    - prati: भूमि
+      gender: f
+    - prati: वृन्दी
+      gender: f
+    - prati: घनत्रेणी
+      gender: f
+    - prati: स्थलगा
+      gender: f
+    - prati: गिरिकर्णिका
+      gender: f
+    - prati: क्षोणी
+      gender: f
+    - prati: सर्वता
+      gender: f
+    - prati: दक्षा
+      gender: f
+  - head: भ्रम
+    verify: false
+    comment: ''
+    gender: m
+    syns:
+    - prati: भ्रमश्वर
+      gender: m
+    qual: implies 'wandering' or 'roaming'
+धरित्री धरणी धात्री भूमिधात्री धरा स्थिरा। वसुन्धरा वसुमती वसुधा विपुला रसा ॥:
+  entries:
+  - head: भूमि
+    verify: false
+    comment: ''
+    gender: f
+    syns:
+    - prati: धरित्री
+      gender: f
+    - prati: धरणी
+      gender: f
+    - prati: धात्री
+      gender: f
+    - prati: धरा
+      gender: f
+    - prati: स्थिरा
+      gender: f
+    - prati: वसुन्धरा
+      gender: f
+    - prati: वसुमती
+      gender: f
+    - prati: वसुधा
+      gender: f
+    - prati: विपुला
+      gender: f
+    - prati: रसा
+      gender: f
+श्मा वि(वा) बिन्वा पृथिवी पृथ्वी हेमा सवंसहा मदी । अब्धिवस्ना नगाधारा मेदिनीला गिरिस्तनी ॥:
+  entries:
+  - head: पृथिवी
+    verify: false
+    comment: ''
+    gender: f
+    syns:
+    - prati: पृथुवी
+      gender: f
+    - prati: हेमा
+      gender: f
+    - prati: सवंसहा
+      gender: f
+    - prati: नगाधारा
+      gender: f
+    - prati: मेदिनी
+      gender: f
+    - prati: गिरिस्तनी
+      gender: f
+  - head: अब्धि
+    verify: false
+    comment: ''
+    gender: m
+    syns:
+    - prati: वस्न
+      gender: m
+'अचला कीलिनी पेरा वीजस रत्न: स्वकः । रत्नगर्भौ काश्यपी भूर्बुधेयर्निरुषेरा ॥':
+  entries:
+  - head: अचल
+    verify: false
+    comment: ''
+    gender: m
+    syns:
+    - prati: अचला
+      gender: f
+    - prati: कीलिनी
+      gender: f
+  - head: रत्न
+    verify: false
+    comment: ''
+    gender: m
+    syns:
+    - prati: रत्न
+      gender: m
+    - prati: पेरा
+      gender: f
+  - head: भूमि
+    verify: false
+    comment: ''
+    gender: f
+    syns:
+    - prati: भूर्
+      gender: f
+    - prati: काश्यपी
+      gender: f
+दयावाप्रथिव्यावेकोक्तौ रोदस्यौ रोदसी इति । नाभीदं भारतं वर्षद्विमद्रिस्तच्च दक्षिणम् ॥:
+  entries:
+  - head: भारत
+    verify: false
+    comment: ''
+    gender: n
+    syns:
+    - prati: वर्ष
+      gender: n
+  - head: रोदस्
+    verify: false
+    comment: ''
+    gender: f
+    syns:
+    - prati: रोदसी
+      gender: f
+    - prati: प्रथिवी
+      gender: f
+  - head: द्रि
+    verify: false
+    comment: ''
+    gender: m
+    syns:
+    - prati: अद्रि
+      gender: m
+    qual: mountain reference
+तेन हैमवतं नाम पार्वतीनयनेत्र ॥:
+  entries:
+  - head: हैमवत
+    verify: false
+    comment: ''
+    gender: n
+    syns:
+    - prati: हैमवत
+      gender: n
+    qual: पार्वती के नयन के जैसा
+  - head: नयन
+    verify: false
+    comment: ''
+    gender: n
+    syns:
+    - prati: नेत्र
+      gender: n
+    - prati: अक्षि
+      gender: n
+हेमकूटं करम्पुरुषं हरिवर्त नैषधम् ॥:
+  entries:
+  - head: हेमकूट
+    verify: false
+    comment: ''
+    gender: m
+    syns:
+    - prati: हेमकूट
+      gender: m
+  - head: पुरुष
+    verify: false
+    comment: ''
+    gender: m
+    syns:
+    - prati: करम्
+      gender: m
+    - prati: पुरुष
+      gender: m
+  - head: हरि
+    verify: false
+    comment: ''
+    gender: m
+    syns:
+    - prati: हरि
+      gender: m
+    - prati: वर्त
+      gender: m
+  - head: नैषध
+    verify: false
+    comment: ''
+    gender: m
+    syns:
+    - prati: नैषध
+      gender: m
+इलावृत्तं सौमेयकं स्मेरं परितो हि तत् । मद्राश्वं तु ततः पूर्वं केतुमालं तु पश्चिमम् ॥:
+  entries:
+  - head: स्थान
+    verify: false
+    comment: ''
+    gender: n
+    syns:
+    - prati: इलावृत्त
+      gender: n
+    - prati: सौमेयक
+      gender: n
+    - prati: स्मेर
+      gender: n
+  - head: दिश्
+    verify: false
+    comment: ''
+    gender: f
+    syns:
+    - prati: मद्राश्व
+      gender: m
+    - prati: केतुमाल
+      gender: m
+    qual: दिक्-विभाग (directional regions)
+वसवो वेतौ क्रमात् पूर्वगन्धिकापरगन्धिकौ । उदक् तु रम्यकं नैलं नीलाद्रेरन्तरं हि तत्॥:
+  entries:
+  - head: वसु
+    verify: false
+    comment: ''
+    gender: m
+    syns:
+    - prati: वसु
+      gender: m
+    - prati: वेत
+      gender: m
+  - head: गन्धिक
+    verify: false
+    comment: ''
+    gender: m
+    syns:
+    - prati: पूर्वगन्धिक
+      gender: m
+    - prati: अपरगन्धिक
+      gender: m
+  - head: देश
+    verify: false
+    comment: ''
+    gender: m
+    syns:
+    - prati: रम्यक
+      gender: n
+    - prati: नैल
+      gender: n
+    - prati: नीलाद्रि
+      gender: m
+ततो हिरण्मयं श्वेतं तश्च श्वेताद्‌ गिरेरुदक् । कुरुवर्षं शाङ्गवतं कुरवश्च त उत्तराः ॥:
+  entries:
+  - head: हिरण्मय
+    verify: false
+    comment: ''
+    gender: n
+    syns:
+    - prati: हिरण्मय
+      gender: n
+    - prati: श्वेत
+      gender: n
+  - head: गिर
+    verify: false
+    comment: ''
+    gender: f
+    syns:
+    - prati: गिरि
+      gender: m
+  - head: कुरु
+    verify: false
+    comment: ''
+    gender: m
+    syns:
+    - prati: कुरुवर्ष
+      gender: m
+    - prati: शाङ्गवत
+      gender: m
+    - prati: कुरव
+      gender: m
+जम्बूहरीपः कुमारी स्यात् रेमे भरतादयः । लावण्यो लवणोदः स्यात् येनासौ वेष्टितोऽम्भसा ॥:
+  entries:
+  - head: जम्बू
+    verify: false
+    comment: ''
+    gender: m
+    syns:
+    - prati: जम्बूहरीप
+      gender: m
+  - head: कुमार
+    verify: false
+    comment: ''
+    gender: m
+    syns:
+    - prati: कुमारी
+      gender: f
+  - head: लावण्य
+    verify: false
+    comment: ''
+    gender: n
+    syns:
+    - prati: लवण
+      gender: m
+    - prati: लवणोद
+      gender: m
+प्लक्षादिद्वीपादयोऽप्येवं वृत्ता इक्षुदकादिभिः। मन्थोदधिस्तु क्षीराब्धिः क्षीरोदः कलशोदधिः ॥:
+  entries:
+  - head: द्वीप
+    verify: false
+    comment: ''
+    gender: m
+    syns:
+    - prati: प्लक्षादि
+      gender: m
+  - head: अब्धि
+    verify: false
+    comment: ''
+    gender: m
+    syns:
+    - prati: मन्थ
+      gender: m
+    - prati: उदधि
+      gender: m
+    - prati: क्षीराब्धि
+      gender: m
+    - prati: कलशोदधि
+      gender: m
+  - head: क्षीर
+    verify: false
+    comment: ''
+    gender: m
+    syns:
+    - prati: क्षीरोद
+      gender: m
+अथाप्यन्येऽन्तरदीपा मारुतात सप्त दक्षिणाः । एको वायुयुक्तो नाम विद्युत्वान् यत्र पावकः ॥:
+  entries:
+  - head: दीप
+    verify: false
+    comment: ''
+    gender: m
+    syns:
+    - prati: अन्तरदीप
+      gender: m
+  - head: मारुत
+    verify: false
+    comment: ''
+    gender: m
+    syns:
+    - prati: वायु
+      gender: m
+  - head: दक्षिण
+    verify: false
+    comment: ''
+    gender: m
+    syns:
+    - prati: दक्षिण
+      gender: m
+  - head: पावक
+    verify: false
+    comment: ''
+    gender: m
+    syns:
+    - prati: विद्युत्वन्
+      gender: m
+मालं मैनं व्रतं जालं नारासङ्गे परान्यहो । अनुद्वीपाश्च षट् तेषामङ्गद्वीपादयो यथा ॥:
+  entries:
+  - head: माल
+    verify: false
+    comment: ''
+    gender: n
+    syns:
+    - prati: माल
+      gender: n
+    - prati: जाल
+      gender: n
+  - head: व्रत
+    verify: false
+    comment: ''
+    gender: n
+    syns:
+    - prati: व्रत
+      gender: n
+  - head: द्वीप
+    verify: false
+    comment: ''
+    gender: m
+    syns:
+    - prati: अङ्ग
+      gender: m
+    - prati: द्वीप
+      gender: m

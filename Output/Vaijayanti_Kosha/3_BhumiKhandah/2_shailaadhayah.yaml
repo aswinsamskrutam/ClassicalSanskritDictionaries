@@ -2,6 +2,7 @@
   entries:
   - head: पर्वत
     verify: false
+    comment: ''
     gender: m
     syns:
     - prati: शैल
@@ -22,6 +23,7 @@
   entries:
   - head: पर्वत
     verify: false
+    comment: ''
     gender: m
     syns:
     - prati: वन्धाकि
@@ -34,6 +36,7 @@
       gender: m
   - head: पाषाण
     verify: false
+    comment: ''
     gender: m
     syns:
     - prati: फलिक
@@ -48,6 +51,7 @@
   entries:
   - head: लोक
     verify: false
+    comment: ''
     gender: m
     syns:
     - prati: लोक
@@ -56,6 +60,7 @@
       gender: m
   - head: अद्रि
     verify: false
+    comment: ''
     gender: m
     syns:
     - prati: पराचल
@@ -64,6 +69,7 @@
       gender: m
   - head: अञ्चल
     verify: false
+    comment: ''
     gender: n
     syns:
     - prati: त्रिकला
@@ -72,6 +78,7 @@
       gender: n
   - head: जलधारक
     verify: false
+    comment: ''
     gender: m
     syns:
     - prati: बिन्ध्य
@@ -82,6 +89,7 @@
   entries:
   - head: हिरण्यनाभ
     verify: false
+    comment: ''
     gender: m
     syns:
     - prati: हिरण्यनाभ
@@ -90,6 +98,7 @@
       gender: m
   - head: पारियात्रक
     verify: false
+    comment: ''
     gender: m
     syns:
     - prati: पारियात्रक
@@ -98,6 +107,7 @@
       gender: m
   - head: माधव
     verify: false
+    comment: ''
     gender: m
     syns:
     - prati: माधव
@@ -106,6 +116,7 @@
       gender: m
   - head: दिवाकर
     verify: false
+    comment: ''
     gender: m
     syns:
     - prati: दिवाकर
@@ -116,6 +127,7 @@
   entries:
   - head: कैलास
     verify: false
+    comment: ''
     gender: m
     syns:
     - prati: रजताद्रि
@@ -124,6 +136,7 @@
       gender: m
   - head: वृषभ
     verify: false
+    comment: ''
     gender: m
     syns:
     - prati: देङ्कट
@@ -136,6 +149,7 @@
       gender: m
   - head: केशवप्रिय
     verify: false
+    comment: ''
     gender: m
     syns:
     - prati: देरात्विहित
@@ -146,6 +160,7 @@
   entries:
   - head: अचल
     verify: false
+    comment: ''
     gender: m
     syns:
     - prati: तटः
@@ -154,6 +169,7 @@
       gender: m
   - head: गुहा
     verify: false
+    comment: ''
     gender: f
     syns:
     - prati: कन्दर
@@ -164,6 +180,7 @@
       gender: m
   - head: उदय
     verify: false
+    comment: ''
     gender: m
     syns:
     - prati: उदयाद्वि
@@ -174,6 +191,7 @@
   entries:
   - head: उत्स
     verify: false
+    comment: ''
     gender: m
     syns:
     - prati: उत्स
@@ -183,6 +201,7 @@
     qual: water source or spring
   - head: तोय
     verify: false
+    comment: ''
     gender: n
     syns:
     - prati: प्रवाह
@@ -192,6 +211,7 @@
     qual: water flow
   - head: करिन्द्र
     verify: false
+    comment: ''
     gender: m
     syns:
     - prati: करिन्द्र
@@ -199,6 +219,7 @@
     qual: elephant king
   - head: सरित्
     verify: false
+    comment: ''
     gender: f
     syns:
     - prati: सरित्
@@ -208,6 +229,7 @@
     qual: river
   - head: पर्वत
     verify: false
+    comment: ''
     gender: m
     syns:
     - prati: पर्वत
@@ -219,6 +241,7 @@
   entries:
   - head: अश्मन्
     verify: false
+    comment: ''
     gender: m
     syns:
     - prati: वट
@@ -233,6 +256,7 @@
       gender: m
   - head: गिरि
     verify: false
+    comment: ''
     gender: m
     syns:
     - prati: शिखर
@@ -241,6 +265,7 @@
       gender: m
   - head: नितम्ब
     verify: false
+    comment: ''
     gender: m
     syns:
     - prati: नितम्ब
@@ -249,12 +274,14 @@
       gender: m
   - head: अधिराज
     verify: false
+    comment: ''
     gender: m
     syns:
     - prati: अधिराज
       gender: m
   - head: शिला
     verify: false
+    comment: ''
     gender: f
     syns:
     - prati: शिला
@@ -263,6 +290,7 @@
   entries:
   - head: पाषाण
     verify: false
+    comment: ''
     gender: m
     syns:
     - prati: गण्डशैल
@@ -272,6 +300,7 @@
     qual: स्थूल, प्रगलित
   - head: उपत्यका
     verify: false
+    comment: ''
     gender: f
     syns:
     - prati: उपत्यका
@@ -285,6 +314,7 @@
   entries:
   - head: निकुञ्ज
     verify: false
+    comment: ''
     gender: m
     syns:
     - prati: ऊडङ्ग
@@ -293,6 +323,7 @@
       gender: m
   - head: आकर
     verify: false
+    comment: ''
     gender: m
     syns:
     - prati: आकर
@@ -301,6 +332,7 @@
       gender: m
   - head: लवणाकर
     verify: false
+    comment: ''
     gender: m
     syns:
     - prati: लवणाकर
@@ -311,6 +343,7 @@
   entries:
   - head: गैरिक
     verify: false
+    comment: ''
     gender: n
     syns:
     - prati: गैरिक
@@ -319,6 +352,7 @@
       gender: m
   - head: मनःशिला
     verify: false
+    comment: ''
     gender: f
     syns:
     - prati: मनःशिला
@@ -327,6 +361,7 @@
       gender: f
   - head: रोचनी
     verify: false
+    comment: ''
     gender: f
     syns:
     - prati: रोचनी
@@ -343,6 +378,7 @@
   entries:
   - head: कला
     verify: false
+    comment: ''
     gender: f
     syns:
     - prati: करवीरा
@@ -357,6 +393,7 @@
       gender: f
   - head: शिला
     verify: false
+    comment: ''
     gender: f
     syns:
     - prati: शिला
@@ -373,12 +410,14 @@
   entries:
   - head: शृङ्ग
     verify: false
+    comment: ''
     gender: n
     syns:
     - prati: शृङ्गधातु
       gender: m
   - head: कर्कटी
     verify: false
+    comment: ''
     gender: f
     syns:
     - prati: पाकशुष्का
@@ -389,12 +428,14 @@
       gender: f
   - head: हरितल
     verify: false
+    comment: ''
     gender: n
     syns:
     - prati: खर्जूर
       gender: n
   - head: पिङ्गल
     verify: false
+    comment: ''
     gender: n
     syns:
     - prati: नटभूषण
@@ -403,6 +444,7 @@
   entries:
   - head: ताल
     verify: false
+    comment: ''
     gender: m
     syns:
     - prati: ताल
@@ -411,6 +453,7 @@
       gender: n
   - head: वंश
     verify: false
+    comment: ''
     gender: m
     syns:
     - prati: वंश
@@ -419,6 +462,7 @@
       gender: n
   - head: पतन
     verify: false
+    comment: ''
     gender: n
     syns:
     - prati: पतन
@@ -427,6 +471,7 @@
       gender: n
   - head: गन्ध
     verify: false
+    comment: ''
     gender: m
     syns:
     - prati: गन्ध
@@ -439,6 +484,7 @@
   entries:
   - head: गोल
     verify: false
+    comment: ''
     gender: m
     syns:
     - prati: वोल
@@ -447,6 +493,7 @@
       gender: m
   - head: शशक
     verify: false
+    comment: ''
     gender: m
     syns:
     - prati: शशक
@@ -455,6 +502,7 @@
       gender: m
   - head: प्राण
     verify: false
+    comment: ''
     gender: m
     syns:
     - prati: प्राण
@@ -465,6 +513,7 @@
       gender: m
   - head: अभ्रक
     verify: false
+    comment: ''
     gender: n
     syns:
     - prati: अभ्रक
@@ -480,6 +529,7 @@
   entries:
   - head: शिलाजीत
     verify: false
+    comment: ''
     gender: m
     syns:
     - prati: शिलाजीत
@@ -492,6 +542,7 @@
       gender: m
   - head: पार्वती
     verify: false
+    comment: ''
     gender: f
     syns:
     - prati: पार्वती
@@ -508,6 +559,7 @@
   entries:
   - head: मदिरा
     verify: false
+    comment: ''
     gender: f
     syns:
     - prati: आढकी
@@ -528,6 +580,7 @@
       gender: f
   - head: भूमि
     verify: false
+    comment: ''
     gender: f
     syns:
     - prati: भूनामा
@@ -538,6 +591,7 @@
   entries:
   - head: स्वर्ण
     verify: false
+    comment: ''
     gender: n
     syns:
     - prati: रुक्म
@@ -561,6 +615,7 @@
   entries:
   - head: कनक
     verify: false
+    comment: ''
     gender: n
     syns:
     - prati: लोभन
@@ -573,6 +628,7 @@
       gender: n
   - head: दाक्षायण
     verify: false
+    comment: ''
     gender: n
     syns:
     - prati: श्रीमद्गुण
@@ -585,6 +641,7 @@
   entries:
   - head: अग्नि
     verify: false
+    comment: ''
     gender: m
     syns:
     - prati: अग्निबीज
@@ -593,6 +650,7 @@
       gender: m
   - head: रत्न
     verify: false
+    comment: ''
     gender: n
     syns:
     - prati: रत्नवर
@@ -603,12 +661,14 @@
       gender: n
   - head: गरुड़
     verify: false
+    comment: ''
     gender: m
     syns:
     - prati: गरुड़
       gender: m
   - head: हेमन्
     verify: false
+    comment: ''
     gender: n
     syns:
     - prati: हेमकूवर
@@ -617,12 +677,14 @@
       gender: n
   - head: जास्वन्
     verify: false
+    comment: ''
     gender: m
     syns:
     - prati: जास्वन्
       gender: m
   - head: राजत
     verify: false
+    comment: ''
     gender: n
     syns:
     - prati: राजतभ
@@ -631,6 +693,7 @@
   entries:
   - head: वैष्णव
     verify: false
+    comment: ''
     gender: m
     syns:
     - prati: वैष्णव
@@ -641,6 +704,7 @@
       gender: m
   - head: सुवर्ण
     verify: false
+    comment: ''
     gender: n
     syns:
     - prati: सुवर्ण
@@ -651,6 +715,7 @@
       gender: n
   - head: काञ्चन
     verify: false
+    comment: ''
     gender: n
     syns:
     - prati: काञ्चन
@@ -663,6 +728,7 @@
   entries:
   - head: वज्र
     verify: false
+    comment: ''
     gender: n
     syns:
     - prati: धारण
@@ -671,6 +737,7 @@
       gender: n
   - head: अलङ्कार
     verify: false
+    comment: ''
     gender: m
     syns:
     - prati: सुवर्ण
@@ -683,6 +750,7 @@
       gender: n
   - head: रस
     verify: false
+    comment: ''
     gender: m
     syns:
     - prati: विद्ध
@@ -691,6 +759,7 @@
   entries:
   - head: रजत
     verify: false
+    comment: ''
     gender: n
     syns:
     - prati: रजत
@@ -704,6 +773,7 @@
     qual: silver or white metal
   - head: घन
     verify: false
+    comment: ''
     gender: m
     syns:
     - prati: घन
@@ -715,6 +785,7 @@
   entries:
   - head: सुभीरक
     verify: false
+    comment: ''
     gender: m
     syns:
     - prati: सौध
@@ -723,6 +794,7 @@
       gender: m
   - head: खजूर
     verify: false
+    comment: ''
     gender: m
     syns:
     - prati: खजूर
@@ -731,6 +803,7 @@
       gender: m
   - head: ताम्र
     verify: false
+    comment: ''
     gender: m
     syns:
     - prati: ताम्र
@@ -741,6 +814,7 @@
       gender: m
   - head: रक्त
     verify: false
+    comment: ''
     gender: m
     syns:
     - prati: रक्त
@@ -753,6 +827,7 @@
   entries:
   - head: म्लेच्छ
     verify: false
+    comment: ''
     gender: m
     syns:
     - prati: म्लेच्छ
@@ -763,6 +838,7 @@
       gender: m
   - head: श्र
     verify: false
+    comment: ''
     gender: m
     syns:
     - prati: श्र
@@ -773,6 +849,7 @@
       gender: m
   - head: रीति
     verify: false
+    comment: ''
     gender: f
     syns:
     - prati: रीति
@@ -781,6 +858,7 @@
       gender: m
   - head: लोहक
     verify: false
+    comment: ''
     gender: n
     syns:
     - prati: पातलोहक
@@ -791,6 +869,7 @@
   entries:
   - head: लोह
     verify: false
+    comment: ''
     gender: m
     syns:
     - prati: लोह्य
@@ -799,6 +878,7 @@
       gender: m
   - head: पित्तल
     verify: false
+    comment: ''
     gender: n
     syns:
     - prati: पित्तल
@@ -807,6 +887,7 @@
       gender: n
   - head: राजरीति
     verify: false
+    comment: ''
     gender: f
     syns:
     - prati: राजरीव्य
@@ -815,6 +896,7 @@
       gender: f
   - head: स्वर्णरीति
     verify: false
+    comment: ''
     gender: f
     syns:
     - prati: स्वर्णरीति
@@ -825,6 +907,7 @@
   entries:
   - head: काव्य
     verify: false
+    comment: ''
     gender: n
     syns:
     - prati: काव्यनी
@@ -833,12 +916,14 @@
       gender: f
   - head: राज्ञी
     verify: false
+    comment: ''
     gender: f
     syns:
     - prati: राज्ञी
       gender: f
   - head: ब्राह्मण
     verify: false
+    comment: ''
     gender: m
     syns:
     - prati: ब्राह्मणी
@@ -849,6 +934,7 @@
       gender: m
   - head: सरस
     verify: false
+    comment: ''
     gender: n
     syns:
     - prati: सरसी
@@ -857,6 +943,7 @@
       gender: f
   - head: निष्ठुर
     verify: false
+    comment: ''
     gender: n
     syns:
     - prati: दासकण्टक
@@ -865,6 +952,7 @@
   entries:
   - head: गुरु
     verify: false
+    comment: ''
     gender: m
     syns:
     - prati: गुरु
@@ -875,6 +963,7 @@
       gender: m
   - head: पल्वल
     verify: false
+    comment: ''
     gender: m
     syns:
     - prati: पल्वल
@@ -885,6 +974,7 @@
       gender: m
   - head: कास्य
     verify: false
+    comment: ''
     gender: n
     syns:
     - prati: कास्य
@@ -893,6 +983,7 @@
       gender: n
   - head: प्रभास
     verify: false
+    comment: ''
     gender: m
     syns:
     - prati: प्रभास
@@ -903,36 +994,42 @@
   entries:
   - head: घण्टा
     verify: false
+    comment: ''
     gender: f
     syns:
     - prati: घण्टा
       gender: f
   - head: लोह
     verify: false
+    comment: ''
     gender: n
     syns:
     - prati: लोह
       gender: n
   - head: रण
     verify: false
+    comment: ''
     gender: m
     syns:
     - prati: रण
       gender: m
   - head: मल
     verify: false
+    comment: ''
     gender: n
     syns:
     - prati: मल
       gender: n
   - head: सीसक
     verify: false
+    comment: ''
     gender: n
     syns:
     - prati: सीसक
       gender: n
   - head: सर्प
     verify: false
+    comment: ''
     gender: m
     syns:
     - prati: भुजग
@@ -943,42 +1040,49 @@
   entries:
   - head: यवन
     verify: false
+    comment: ''
     gender: m
     syns:
     - prati: यवन
       gender: m
   - head: देवघन
     verify: false
+    comment: ''
     gender: m
     syns:
     - prati: देवघन
       gender: m
   - head: त्रपु
     verify: false
+    comment: ''
     gender: n
     syns:
     - prati: त्रपु
       gender: n
   - head: नाग
     verify: false
+    comment: ''
     gender: m
     syns:
     - prati: नाग
       gender: m
   - head: चीनपत्र
     verify: false
+    comment: ''
     gender: n
     syns:
     - prati: चीनपत्र
       gender: n
   - head: रङ्ग
     verify: false
+    comment: ''
     gender: m
     syns:
     - prati: रङ्ग
       gender: m
   - head: पिच्छल
     verify: false
+    comment: ''
     gender: n
     syns:
     - prati: पिच्छल
@@ -987,6 +1091,7 @@
   entries:
   - head: रङ्ग
     verify: false
+    comment: ''
     gender: m
     syns:
     - prati: रङ्ग
@@ -995,24 +1100,28 @@
       gender: m
   - head: त्रपु
     verify: false
+    comment: ''
     gender: n
     syns:
     - prati: त्रपु
       gender: n
   - head: मृदङ्ग
     verify: false
+    comment: ''
     gender: m
     syns:
     - prati: मृदङ्ग
       gender: m
   - head: नाग
     verify: false
+    comment: ''
     gender: m
     syns:
     - prati: नागजीवन
       gender: m
   - head: पराङ्ग
     verify: false
+    comment: ''
     gender: n
     syns:
     - prati: पराङ्ग
@@ -1021,6 +1130,7 @@
       gender: n
   - head: वक्र
     verify: false
+    comment: ''
     gender: n
     syns:
     - prati: वक्राख्य
@@ -1031,6 +1141,7 @@
   entries:
   - head: कस्तीर
     verify: false
+    comment: ''
     gender: n
     syns:
     - prati: कस्तीर
@@ -1041,6 +1152,7 @@
       gender: n
   - head: नाग
     verify: false
+    comment: ''
     gender: m
     syns:
     - prati: नाग
@@ -1053,6 +1165,7 @@
       gender: m
   - head: तमरक
     verify: false
+    comment: ''
     gender: n
     syns:
     - prati: तमरक
@@ -1067,6 +1180,7 @@
   entries:
   - head: अयस्
     verify: false
+    comment: ''
     gender: n
     syns:
     - prati: कृष्णायस
@@ -1080,6 +1194,7 @@
     qual: metal-related terms
   - head: शस्त्र
     verify: false
+    comment: ''
     gender: n
     syns:
     - prati: विषमायुध
@@ -1087,6 +1202,7 @@
     qual: weapon-related term
   - head: धीवर
     verify: false
+    comment: ''
     gender: m
     syns:
     - prati: धीमक
@@ -1098,6 +1214,7 @@
   entries:
   - head: कुटिन्
     verify: false
+    comment: ''
     gender: f
     syns:
     - prati: खी
@@ -1106,6 +1223,7 @@
       gender: f
   - head: अश्मन्
     verify: false
+    comment: ''
     gender: m
     syns:
     - prati: पारशव
@@ -1116,6 +1234,7 @@
       gender: m
   - head: लोहन्
     verify: false
+    comment: ''
     gender: n
     syns:
     - prati: कालायस
@@ -1130,48 +1249,56 @@
   entries:
   - head: वैकुण्ठ
     verify: false
+    comment: ''
     gender: m
     syns:
     - prati: वैकुण्ठ
       gender: m
   - head: रसज्ञ
     verify: false
+    comment: ''
     gender: m
     syns:
     - prati: रसज्ञ
       gender: m
   - head: व्योमधारण
     verify: false
+    comment: ''
     gender: m
     syns:
     - prati: व्योमधारण
       gender: m
   - head: रसकर्तृ
     verify: false
+    comment: ''
     gender: m
     syns:
     - prati: रसकर्तृ
       gender: m
   - head: यशस्ल
     verify: false
+    comment: ''
     gender: m
     syns:
     - prati: यशस्ल
       gender: m
   - head: सार
     verify: false
+    comment: ''
     gender: m
     syns:
     - prati: सार
       gender: m
   - head: विकार
     verify: false
+    comment: ''
     gender: m
     syns:
     - prati: विकार
       gender: m
   - head: लोदज
     verify: false
+    comment: ''
     gender: m
     syns:
     - prati: लोदज
@@ -1180,6 +1307,7 @@
   entries:
   - head: मण्डूर
     verify: false
+    comment: ''
     gender: m
     syns:
     - prati: धूत
@@ -1190,6 +1318,7 @@
       gender: m
   - head: वसु
     verify: false
+    comment: ''
     gender: n
     syns:
     - prati: धन
@@ -1205,6 +1334,7 @@
     qual: तेजसां (of radiance/power)
   - head: असल
     verify: false
+    comment: ''
     gender: m
     syns:
     - prati: वय
@@ -1213,6 +1343,7 @@
   entries:
   - head: स्फटिक
     verify: false
+    comment: ''
     gender: m
     syns:
     - prati: स्फटिक
@@ -1227,6 +1358,7 @@
       gender: m
   - head: चन्द्रमणि
     verify: false
+    comment: ''
     gender: m
     syns:
     - prati: चन्द्रकान्त
@@ -1241,6 +1373,7 @@
   entries:
   - head: अयस्कान्त
     verify: false
+    comment: ''
     gender: m
     syns:
     - prati: अयस्कान्त
@@ -1251,6 +1384,7 @@
       gender: m
   - head: मरकत
     verify: false
+    comment: ''
     gender: n
     syns:
     - prati: मरकत
@@ -1264,6 +1398,7 @@
   entries:
   - head: रत्न
     verify: false
+    comment: ''
     gender: n
     syns:
     - prati: शोण
@@ -1278,6 +1413,7 @@
       gender: m
   - head: अक्षि
     verify: false
+    comment: ''
     gender: n
     syns:
     - prati: प्रबाल
@@ -1290,6 +1426,7 @@
   entries:
   - head: नील
     verify: false
+    comment: ''
     gender: n
     syns:
     - prati: इन्द्रील
@@ -1298,18 +1435,21 @@
       gender: n
   - head: रत्नभेद
     verify: false
+    comment: ''
     gender: m
     syns:
     - prati: मुक्तिका
       gender: f
   - head: बालवार्य
     verify: false
+    comment: ''
     gender: n
     syns:
     - prati: इन्द्रील
       gender: n
   - head: कुरुविन्द
     verify: false
+    comment: ''
     gender: m
     syns:
     - prati: चुल्माष
@@ -1318,6 +1458,7 @@
   entries:
   - head: माणिक्य
     verify: false
+    comment: ''
     gender: n
     syns:
     - prati: माणिक्य
@@ -1332,24 +1473,28 @@
       gender: n
   - head: शङ्ख
     verify: false
+    comment: ''
     gender: m
     syns:
     - prati: शङ्ख
       gender: m
   - head: पुलक
     verify: false
+    comment: ''
     gender: n
     syns:
     - prati: पुलक
       gender: n
   - head: विमल
     verify: false
+    comment: ''
     gender: m
     syns:
     - prati: विमल
       gender: m
   - head: शिला
     verify: false
+    comment: ''
     gender: f
     syns:
     - prati: शिला
@@ -1362,12 +1507,14 @@
   entries:
   - head: जल
     verify: false
+    comment: ''
     gender: n
     syns:
     - prati: सौवीर
       gender: n
   - head: अञ्जन
     verify: false
+    comment: ''
     gender: n
     syns:
     - prati: तुत्थाञ्जन
@@ -1378,6 +1525,7 @@
       gender: n
   - head: मयूरक
     verify: false
+    comment: ''
     gender: m
     syns:
     - prati: वितुन्नक
@@ -1386,6 +1534,7 @@
   entries:
   - head: पुष्प
     verify: false
+    comment: ''
     gender: n
     syns:
     - prati: रीतिपुष्प
@@ -1398,6 +1547,7 @@
       gender: n
   - head: काथ
     verify: false
+    comment: ''
     gender: m
     syns:
     - prati: तुत्थ
@@ -1411,6 +1561,7 @@
   entries:
   - head: चक्षुर्
     verify: false
+    comment: ''
     gender: f
     syns:
     - prati: कलध्वंसिका
@@ -1423,6 +1574,7 @@
       gender: f
   - head: रस
     verify: false
+    comment: ''
     gender: m
     syns:
     - prati: पारत
@@ -1439,18 +1591,21 @@
   entries:
   - head: दिक्
     verify: false
+    comment: ''
     gender: f
     syns:
     - prati: दिङ्मल
       gender: m
   - head: हंस
     verify: false
+    comment: ''
     gender: m
     syns:
     - prati: हंसपाद
       gender: m
   - head: क्षेत्र
     verify: false
+    comment: ''
     gender: n
     syns:
     - prati: कुरुक्षेत्र
@@ -1459,6 +1614,7 @@
   entries:
   - head: भगवत्
     verify: false
+    comment: ''
     gender: m
     syns:
     - prati: यादवेन्द्र
@@ -1467,24 +1623,28 @@
       gender: m
   - head: काश
     verify: false
+    comment: ''
     gender: m
     syns:
     - prati: काश
       gender: m
   - head: भूमि
     verify: false
+    comment: ''
     gender: f
     syns:
     - prati: भूमि
       gender: f
   - head: शण्ड
     verify: false
+    comment: ''
     gender: m
     syns:
     - prati: शण्ड
       gender: m
   - head: शैल
     verify: false
+    comment: ''
     gender: m
     syns:
     - prati: शैल

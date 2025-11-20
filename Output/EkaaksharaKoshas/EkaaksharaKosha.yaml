@@ -1,92 +1,114 @@
 अकारो वासुदेवः स्यादाकारश्च पितामहः । पूजायां अपि माङ्गल्ये आकारः परिकीर्त्तितः ॥:
   entries:
-  - alphabet: अकारः
+  - comment: ''
+    alphabet: अकारः
     meanings:
     - वासुदेवः
-  - alphabet: आकारः
+  - comment: ''
+    alphabet: आकारः
     meanings:
     - पितामहः
     - पूजा
     - माङ्गल्यम्
 इकारो उच्यते कामो लक्ष्मीरीकार उच्यते । उकारः शङ्करः प्रोक्त ऊकारश्चापि रक्षणे ॥:
   entries:
-  - alphabet: इकारः
+  - comment: ''
+    alphabet: इकारः
     meanings:
     - कामः
-  - alphabet: ईकारः
+  - comment: ''
+    alphabet: ईकारः
     meanings:
     - लक्ष्मीः
-  - alphabet: उकारः
+  - comment: ''
+    alphabet: उकारः
     meanings:
     - शङ्करः
-  - alphabet: ऊकारः
+  - comment: ''
+    alphabet: ऊकारः
     meanings:
     - रक्षणम्
 ऋकारो देवमाता स्यादॄकारो दनुजप्रसूः । ळ्कारो देवयोनिः स्यालॢर्माता सद्भिरुच्यते ॥:
   entries:
-  - alphabet: ऋकारः
+  - comment: ''
+    alphabet: ऋकारः
     meanings:
     - देवमाता
-  - alphabet: ॠकारः
+  - comment: ''
+    alphabet: ॠकारः
     meanings:
     - दनुजप्रसूः
-  - alphabet: ळ्कारः
+  - comment: ''
+    alphabet: ळ्कारः
     meanings:
     - देवयोनिः
-  - alphabet: ऌकारः
+  - comment: ''
+    alphabet: ऌकारः
     meanings:
     - माता
 एकारः कथितो विष्णुरैकारश्च महेश्वरः । ओकारस्तु भवेद्ब्रह्मा औकारो रुद्र उच्यते ॥:
   entries:
-  - alphabet: एकारः
+  - comment: ''
+    alphabet: एकारः
     meanings:
     - विष्णुः
-  - alphabet: ऐकारः
+  - comment: ''
+    alphabet: ऐकारः
     meanings:
     - महेश्वरः
-  - alphabet: ओकारः
+  - comment: ''
+    alphabet: ओकारः
     meanings:
     - ब्रह्मा
-  - alphabet: औकारः
+  - comment: ''
+    alphabet: औकारः
     meanings:
     - रुद्रः
 अं स्याच्च परमं ब्रह्म अः स्याद्देवो महेश्वरः । कः प्रजापतिरुद्दिष्टो को वायुरिति शब्दितः ॥:
   entries:
-  - alphabet: अं
+  - comment: ''
+    alphabet: अं
     meanings:
     - परमं ब्रह्म
-  - alphabet: अः
+  - comment: ''
+    alphabet: अः
     meanings:
     - देवः
     - महेश्वरः
-  - alphabet: कः
+  - comment: ''
+    alphabet: कः
     meanings:
     - प्रजापतिः
     - वायुः
 कश्चात्मा च समाख्यातः कः प्रकाश उदाहृतः । कं शिरो जलं आख्यातं कं सुखं च प्रकीर्तितं ॥:
   entries:
-  - alphabet: कः
+  - comment: ''
+    alphabet: कः
     meanings:
     - आत्मा
     - प्रकाशः
-  - alphabet: कं
+  - comment: ''
+    alphabet: कं
     meanings:
     - शिरः
     - जलम्
     - सुखम्
 पृथिव्यां कुः समाख्याता कुत्सायां कुः प्रकीर्तितः । खं इन्द्रियं समाख्यातं खं आकाशं उदाहृतं ॥:
   entries:
-  - alphabet: कुः
+  - comment: ''
+    alphabet: कुः
     meanings:
     - पृथिवी
     - कुत्सा
-  - alphabet: खं
+  - comment: ''
+    alphabet: खं
     meanings:
     - इन्द्रियम्
     - आकाशम्
 खं स्वर्गे च समाख्यातं खं सर्पे च प्रकीर्तितं । तथा श्वभ्रे च खं प्राहुः खं शून्ये च प्रकीर्त्तितं ॥:
   entries:
-  - alphabet: खं
+  - comment: ''
+    alphabet: खं
     meanings:
     - स्वर्गः
     - सर्पः
@@ -94,174 +116,213 @@
     - शून्यम्
 गो गणपतिरुद्दिष्टो गो गन्धर्वः प्रकीर्त्तितः । गं गीतं गा च गाथा स्याद्गौर्धेनुर्गौः सरस्वती ॥:
   entries:
-  - alphabet: गः
+  - comment: ''
+    alphabet: गः
     meanings:
     - गणपतिः
     - गन्धर्वः
-  - alphabet: गं
+  - comment: ''
+    alphabet: गं
     meanings:
     - गीतम्
-  - alphabet: गा
+  - comment: ''
+    alphabet: गा
     meanings:
     - गाथा
-  - alphabet: गौः
+  - comment: ''
+    alphabet: गौः
     meanings:
     - धेनुः
     - सरस्वती
 गौर्मातापि समुद्दिष्टा पृथिव्यां गौः प्रकीर्त्तिता । घो घण्टायां समाख्यातः किङ्किणी घा प्रकीर्त्तिता ॥:
   entries:
-  - alphabet: गौः
+  - comment: ''
+    alphabet: गौः
     meanings:
     - माता
     - पृथिवी
-  - alphabet: घः
+  - comment: ''
+    alphabet: घः
     meanings:
     - घण्टा
-  - alphabet: घा
+  - comment: ''
+    alphabet: घा
     meanings:
     - किङ्किणी
 उपमा घा समाख्याता कुस्वरे घुः प्रकीर्त्तितः । हनने घा समाख्याता गन्धने घः प्रकीर्त्तितः ॥:
   entries:
-  - alphabet: घा
+  - comment: ''
+    alphabet: घा
     meanings:
     - उपमा
     - हननम्
-  - alphabet: घुः
+  - comment: ''
+    alphabet: घुः
     meanings:
     - कुस्वरः
-  - alphabet: घः
+  - comment: ''
+    alphabet: घः
     meanings:
     - गन्धनम्
 ङकारो भैरवः ख्यातो ङकारो विषये स्मृतः । चकारश्चन्द्रमाः ख्यातस्तस्करश्च प्रकीर्त्तितः ॥:
   entries:
-  - alphabet: ङकारः
+  - comment: ''
+    alphabet: ङकारः
     meanings:
     - भैरवः
     - विषयः
-  - alphabet: चकारः
+  - comment: ''
+    alphabet: चकारः
     meanings:
     - चन्द्रमाः
     - तस्करः
 निर्मलं छं समाख्यातं तरणी छः प्रकीर्त्तितः । छेदने छः समाख्यातो विद्वद्भिः शब्दकोविदैः ॥:
   entries:
-  - alphabet: छं
+  - comment: ''
+    alphabet: छं
     meanings:
     - निर्मलम्
-  - alphabet: छः
+  - comment: ''
+    alphabet: छः
     meanings:
     - तरणी
     - छेदनम्
 वेगिते जः समाख्यातो जघने जः प्रकीर्त्तितः । जेता च जः समाख्यातः प्रसिद्धैः शब्दकोविदैः ॥:
   entries:
-  - alphabet: जः
+  - comment: ''
+    alphabet: जः
     meanings:
     - वेगितम्
     - जघनम्
     - जेता
 झंझावाते झकारः स्यान्नष्टे झः समुदाहृतः । ञकारो गायने प्रोक्तो ञकारो घर्घरध्वनौ ॥:
   entries:
-  - alphabet: झकारः
+  - comment: ''
+    alphabet: झकारः
     meanings:
     - झंझावातः
-  - alphabet: झः
+  - comment: ''
+    alphabet: झः
     meanings:
     - नष्टम्
-  - alphabet: ञकारः
+  - comment: ''
+    alphabet: ञकारः
     meanings:
     - गायनम्
     - घर्घरध्वनिः
 टङ्कारे टः पृथिव्यां टा टो ध्वनौ च प्रकीर्तितः । ठो महेश्वर आख्यातः शून्ये च ठः प्रकीर्तितः ॥:
   entries:
-  - alphabet: टः
+  - comment: ''
+    alphabet: टः
     meanings:
     - टङ्कारः
     - ध्वनिः
-  - alphabet: टा
+  - comment: ''
+    alphabet: टा
     meanings:
     - पृथिवी
-  - alphabet: ठः
+  - comment: ''
+    alphabet: ठः
     meanings:
     - महेश्वरः
     - शून्यम्
 बृहद्ध्वनौ च ठः प्रोक्तस्तथा चन्द्रस्य मण्डले । डकारः शङ्करः प्रोक्तस्त्रासध्वन्योः प्रकीर्तितः ॥:
   entries:
-  - alphabet: ठः
+  - comment: ''
+    alphabet: ठः
     meanings:
     - बृहद्ध्वनिः
     - चन्द्रमण्डलम्
-  - alphabet: डकारः
+  - comment: ''
+    alphabet: डकारः
     meanings:
     - शङ्करः
     - त्रासः
     - ध्वनिः
 ढकारः कीर्तिता ढक्का निर्गुणे च ध्वनावपि । णकारः कीर्तितो ज्ञाने निर्णयेऽपि प्रकीर्तितः ॥:
   entries:
-  - alphabet: ढकारः
+  - comment: ''
+    alphabet: ढकारः
     meanings:
     - ढक्का
     - निर्गुणम्
     - ध्वनिः
-  - alphabet: णकारः
+  - comment: ''
+    alphabet: णकारः
     meanings:
     - ज्ञानम्
     - निर्णयः
 तकारः कथितश्चौरः क्रोडे पुच्छे प्रकीर्तितः । शिलोच्चये थकारः स्यात्थकारो भयरक्षणे ॥:
   entries:
-  - alphabet: तकारः
+  - comment: ''
+    alphabet: तकारः
     meanings:
     - चौरः
     - क्रोडः
     - पुच्छम्
-  - alphabet: थकारः
+  - comment: ''
+    alphabet: थकारः
     meanings:
     - शिलोच्चयः
     - भयम्
     - रक्षणम्
 दं कलत्रे समाख्यातं दो दानच्छेदधातुषु । धं धने च धनेशे धो धा धातरि निदर्शितः ॥:
   entries:
-  - alphabet: दं
+  - comment: ''
+    alphabet: दं
     meanings:
     - कलत्रम्
-  - alphabet: दः
+  - comment: ''
+    alphabet: दः
     meanings:
     - दानम्
     - छेदः
     - धातुः
-  - alphabet: धं
+  - comment: ''
+    alphabet: धं
     meanings:
     - धनम्
     - धनेशः
-  - alphabet: धः
+  - comment: ''
+    alphabet: धः
     meanings:
     - धाता
-  - alphabet: धा
+  - comment: ''
+    alphabet: धा
     meanings:
     - धाता
 धिषणा धीः समाख्याता धूश्च स्याद्भारचिन्तयोः । नकारः सुगते बन्धे नुः स्तुतौ च प्रकीर्तितः ॥:
   entries:
-  - alphabet: धीः
+  - comment: ''
+    alphabet: धीः
     meanings:
     - धिषणा
-  - alphabet: धूः
+  - comment: ''
+    alphabet: धूः
     meanings:
     - भारः
     - चिन्ता
-  - alphabet: नकारः
+  - comment: ''
+    alphabet: नकारः
     meanings:
     - सुगतः
     - बन्धः
-  - alphabet: नुः
+  - comment: ''
+    alphabet: नुः
     meanings:
     - स्तुतिः
 नेता नीश्च समाख्यातस्तरणौ नौः प्रकीर्तिता । नकारः सौगते बुद्धौ स्तुतो सूर्ये च कीर्तितः ॥:
   entries:
-  - alphabet: नीः
+  - comment: ''
+    alphabet: नीः
     meanings:
     - नेता
-  - alphabet: नौः
+  - comment: ''
+    alphabet: नौः
     meanings:
     - तरणी
-  - alphabet: नकारः
+  - comment: ''
+    alphabet: नकारः
     meanings:
     - सौगतः
     - बुद्धः
@@ -269,68 +330,83 @@
     - सूर्यः
 नशब्दः स्वागते बन्धौ वृक्षे सूर्ये च कीर्तितः । पः कुबेरः समाख्यातः पश्चिमे च प्रकीर्तितः ॥:
   entries:
-  - alphabet: नः
+  - comment: ''
+    alphabet: नः
     meanings:
     - स्वागतम्
     - बन्धुः
     - वृक्षः
     - सूर्यः
-  - alphabet: पः
+  - comment: ''
+    alphabet: पः
     meanings:
     - कुबेरः
     - पश्चिमः
 पवने पः समाख्यातः पाः पाने पाश्च पातरि । कफे वाते फकारः स्यात्तथाह्वाने प्रकीर्तितः ॥:
   entries:
-  - alphabet: पः
+  - comment: ''
+    alphabet: पः
     meanings:
     - पवनः
-  - alphabet: पा
+  - comment: ''
+    alphabet: पा
     meanings:
     - पानम्
     - पाता
-  - alphabet: फकारः
+  - comment: ''
+    alphabet: फकारः
     meanings:
     - कफः
     - वातः
     - आह्वानम्
 झंझावाते फकारः स्यादक्षरे च प्रकीर्तितः । कोपे फिश्च समाख्यातस्तथा निष्फलभाषणे ॥:
   entries:
-  - alphabet: फकारः
+  - comment: ''
+    alphabet: फकारः
     meanings:
     - झंझावातः
     - अक्षरम्
-  - alphabet: फिः
+  - comment: ''
+    alphabet: फिः
     meanings:
     - कोपः
     - निष्फलभाषणम्
 वक्षःस्थले च बः प्रोक्तो गदायां समुदाहृतः । नक्षत्रं भं बुधैः प्रोक्तं भ्रमरे भः प्रकीर्तितः ॥:
   entries:
-  - alphabet: बः
+  - comment: ''
+    alphabet: बः
     meanings:
     - वक्षःस्थलम्
     - गदा
-  - alphabet: भं
+  - comment: ''
+    alphabet: भं
     meanings:
     - नक्षत्रम्
-  - alphabet: भः
+  - comment: ''
+    alphabet: भः
     meanings:
     - भ्रमरः
 भा दीप्तिरपि भूर्भूमिर्भीर्भयं कथिता बुधैः । मः शिवश्चन्द्रमा वेधा मा च लक्ष्मीः प्रकीर्तिता ॥:
   entries:
-  - alphabet: भा
+  - comment: ''
+    alphabet: भा
     meanings:
     - दीप्तिः
-  - alphabet: भूः
+  - comment: ''
+    alphabet: भूः
     meanings:
     - भूमिः
-  - alphabet: भीः
+  - comment: ''
+    alphabet: भीः
     meanings:
     - भयम्
-  - alphabet: मः
+  - comment: ''
+    alphabet: मः
     meanings:
     - शिवः
     - चन्द्रमाः
     - वेधाः
-  - alphabet: मा
+  - comment: ''
+    alphabet: मा
     meanings:
     - लक्ष्मीः
